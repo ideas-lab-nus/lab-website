@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ngoc-Tri Ngo on IDEAS Lab</title>
+    <link>/authors/ngoc-tri-ngo/</link>
+    <description>Recent content in Ngoc-Tri Ngo on IDEAS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/ngoc-tri-ngo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuous-time Bayesian calibration of energy models using BIM and energy data</title>
+      <link>/publication/chong-2019177/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2019177/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

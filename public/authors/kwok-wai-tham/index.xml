@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kwok Wai Tham on IDEAS Lab</title>
+    <link>/authors/kwok-wai-tham/</link>
+    <description>Recent content in Kwok Wai Tham on IDEAS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/kwok-wai-tham/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Energy utilizability concept as a retrofitting solution selection criterion for buildings</title>
+      <link>/publication/yang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/yang-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

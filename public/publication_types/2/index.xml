@@ -6,18 +6,81 @@
     <description>Recent content in 2 on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
+      <title>Continuous-time Bayesian calibration of energy models using BIM and energy data</title>
+      <link>/publication/chong-2019177/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <guid>/publication/chong-2019177/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green and cool roofs’ urban heat island mitigation potential in tropical climate</title>
+      <link>/publication/yang-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/yang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines for the Bayesian calibration of building energy models</title>
+      <link>/publication/chong-2018527/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2018527/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian calibration of building energy models with large datasets</title>
+      <link>/publication/chong-2017343/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2017343/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy utilizability concept as a retrofitting solution selection criterion for buildings</title>
+      <link>/publication/yang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/yang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving evolutionary algorithm performance for integer type multi-objective building system design optimization</title>
+      <link>/publication/xu-2016714/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/xu-2016714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the envelope performance of commercial office buildings in Singapore</title>
+      <link>/publication/chong-201366/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-201366/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation of misting fans in hot and humid climate</title>
+      <link>/publication/wong-20102666/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/wong-20102666/</guid>
+      <description></description>
     </item>
     
   </channel>

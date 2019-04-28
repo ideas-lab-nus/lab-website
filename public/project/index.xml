@@ -6,10 +6,28 @@
     <description>Recent content in Projects on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generating certified energy models in Singapore through an M&amp;V framework: A pilot study</title>
+      <link>/project/bem-measurement-verification/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/project/bem-measurement-verification/</guid>
+      <description>How much information should be gathered in the process of M&amp;amp;V, to reach a desired level of confidence in the resulting building energy model. A collaborative project with Professor Godfried Augenbroe (Georgia Institute of Technology).</description>
+    </item>
+    
+    <item>
+      <title>Integrated web-based platform for lifecycle building energy modeling</title>
+      <link>/project/integrated-bem-platform/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/project/integrated-bem-platform/</guid>
+      <description>Development of a web-based platform for integrating building energy simulation and IoT data. A collaborative project Professor Yan Da (Tsinghua University).</description>
+    </item>
     
     <item>
       <title>External Project</title>

@@ -6,18 +6,63 @@
     <description>Recent content in 1 on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
+      <title>A Deep Reinforcement Learning Approach to Using Whole Building Energy Model For HVAC Optimal Control</title>
+      <link>/publication/zhang-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
       
-      <guid>/publication/conference-paper/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <guid>/publication/zhang-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of MCMC algorithms for the Bayesian calibration of building energy models</title>
+      <link>/publication/chong-2017-comparison/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2017-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imputation of missing values in building sensor data</title>
+      <link>/publication/chong-2016-missing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2016-missing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective optimization of building envelope, lighting and HVAC system designs</title>
+      <link>/publication/xu-2016-multi/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/xu-2016-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty analysis and parameter estimation of HVAC systems in building energy models</title>
+      <link>/publication/chong-2015-hvac/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2015-hvac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty analysis in building energy simulation: A practical approach</title>
+      <link>/publication/chong-2015-practical/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2015-practical/</guid>
+      <description></description>
     </item>
     
   </channel>

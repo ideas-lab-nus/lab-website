@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Building envelope performance on IDEAS Lab</title>
+    <link>/tags/building-envelope-performance/</link>
+    <description>Recent content in Building envelope performance on IDEAS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/building-envelope-performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting the envelope performance of commercial office buildings in Singapore</title>
+      <link>/publication/chong-201366/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-201366/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,17 +6,161 @@
     <description>Recent content in Tags on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0800</pubDate>
+      <title>Bayesian calibration</title>
+      <link>/tags/bayesian-calibration/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/bayesian-calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building information models (BIM)</title>
+      <link>/tags/building-information-models-bim/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-information-models-bim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous calibration</title>
+      <link>/tags/continuous-calibration/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/continuous-calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy simulation</title>
+      <link>/tags/energy-simulation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/energy-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green building XML (gbXML)</title>
+      <link>/tags/green-building-xml-gbxml/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/green-building-xml-gbxml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty analysis</title>
+      <link>/tags/uncertainty-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/uncertainty-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Enegy Simulation</title>
+      <link>/tags/building-enegy-simulation/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-enegy-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building energy modeling</title>
+      <link>/tags/building-energy-modeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-energy-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building simulation</title>
+      <link>/tags/building-simulation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cool roof</title>
+      <link>/tags/cool-roof/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cool-roof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy efficiency</title>
+      <link>/tags/energy-efficiency/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/energy-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian process</title>
+      <link>/tags/gaussian-process/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/gaussian-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green roof</title>
+      <link>/tags/green-roof/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/green-roof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamiltonian Monte Carlo</title>
+      <link>/tags/hamiltonian-monte-carlo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/hamiltonian-monte-carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigation potential</title>
+      <link>/tags/mitigation-potential/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/mitigation-potential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropical climate</title>
+      <link>/tags/tropical-climate/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/tropical-climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No-U-Turn Sampler</title>
+      <link>/tags/no-u-turn-sampler/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/no-u-turn-sampler/</guid>
       <description></description>
     </item>
     
@@ -48,6 +192,42 @@
     </item>
     
     <item>
+      <title>Building cost estimation</title>
+      <link>/tags/building-cost-estimation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-cost-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building system design</title>
+      <link>/tags/building-system-design/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-system-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective evolutionary optimization</title>
+      <link>/tags/multi-objective-evolutionary-optimization/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/multi-objective-evolutionary-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization performance</title>
+      <link>/tags/optimization-performance/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/optimization-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R Markdown</title>
       <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -71,6 +251,78 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building envelope performance</title>
+      <link>/tags/building-envelope-performance/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-envelope-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban heat island</title>
+      <link>/tags/urban-heat-island/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/urban-heat-island/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Window solar heat gain</title>
+      <link>/tags/window-solar-heat-gain/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/window-solar-heat-gain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaporative cooling</title>
+      <link>/tags/evaporative-cooling/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/evaporative-cooling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hot</title>
+      <link>/tags/hot/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/hot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humid</title>
+      <link>/tags/humid/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/humid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misting fan</title>
+      <link>/tags/misting-fan/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/misting-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singapore</title>
+      <link>/tags/singapore/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/singapore/</guid>
       <description></description>
     </item>
     

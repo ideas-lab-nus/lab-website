@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denia Kolokotsa on IDEAS Lab</title>
+    <link>/authors/denia-kolokotsa/</link>
+    <description>Recent content in Denia Kolokotsa on IDEAS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/denia-kolokotsa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Green and cool roofs’ urban heat island mitigation potential in tropical climate</title>
+      <link>/publication/yang-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/yang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy utilizability concept as a retrofitting solution selection criterion for buildings</title>
+      <link>/publication/yang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/yang-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

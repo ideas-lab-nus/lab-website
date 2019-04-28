@@ -36,20 +36,6 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -113,6 +99,15 @@ rm Untitled.md
     </item>
     
     <item>
+      <title>Continuous-time Bayesian calibration of energy models using BIM and energy data</title>
+      <link>/publication/chong-2019177/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2019177/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
@@ -133,6 +128,41 @@ rm Untitled.md
     </item>
     
     <item>
+      <title>Generating certified energy models in Singapore through an M&amp;V framework: A pilot study</title>
+      <link>/project/bem-measurement-verification/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/project/bem-measurement-verification/</guid>
+      <description>&lt;p&gt;An NUS project in collaboration with &lt;a href=&#34;https://arch.gatech.edu/people/godfried-l-augenbroe&#34; target=&#34;_blank&#34;&gt;Professor Godfried Augenbroe (Georgia Institute of Technology)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With increasing push from the Singapore Building and Construction Authority (BCA) to have buildings in Singapore certified environmentally friendly according to the Green Mark Scheme, there is an urgent need to verify that these “green buildings” are as environmentally friendly as they are purported. In particular, there is an opportunity for measurement and verification (M&amp;amp;V) using building energy models (BEMs) since these models are already required by the Green Mark Scheme to demonstrate the building&amp;rsquo;s energy savings. However, to date, there is no protocol for M&amp;amp;V using BEMs. Standards and guidelines are also vague with respect to model inputs, outputs, data resolution, as well as model fidelity. Moreover, a cost/benefit analysis of the gathering and processing of building data is missing in the current literature. The aim of this study is therefore to provide answers to the question “How much information should be gathered in the process of M&amp;amp;V, to reach a desired level of confidence in the resulting building energy model”. The answers will provide guidance on M&amp;amp;V protocols that lead to certified BEMs.&lt;/p&gt;
+
+&lt;p&gt;To ensure model reliability, an integral part of the M&amp;amp;V process is the calibration of the energy model. However, current BEM calibration has been carried out on an ad hoc basis, with most studies focusing on the automation of the calibration process, using deviation between predicted and measured outcomes as a measure of how ``well calibrated&amp;rdquo; the model is. One caveat is that the “calibrated” BEM may not be representative of the actual building performance since various combinations of inputs can produce a small deviation between measured and predicted outcomes. As a result, models calibrated using this approach might be non-identifiable due to over-parameterization, a problem typically neglected in studies that involve BEM calibration. Therefore, an important aspect of this research project is to investigate possible non-identifiability issues in BEM calibration. We hypothesize that low fidelity models can be better calibrated with limited data because they are less likely to be over-parameterized as compared to high fidelity models that typically contain hundreds if not thousands of uncertain or unknown parameters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated web-based platform for lifecycle building energy modeling</title>
+      <link>/project/integrated-bem-platform/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/project/integrated-bem-platform/</guid>
+      <description>&lt;p&gt;An NUS project in collaboration with &lt;a href=&#34;http://arch.tsinghua.edu.cn/chs/data/shizi/sz/e/yanda.htm&#34; target=&#34;_blank&#34;&gt;Professor Yan Da (Tsinghua University)&lt;/a&gt; funded by the &lt;a href=&#34;https://www.ntfcf.org.hk/our-initiase/&#34; target=&#34;_blank&#34;&gt;Ng Teng Fong Charitable Foundation (NTFCF)&lt;/a&gt; research funding&lt;/p&gt;
+
+&lt;p&gt;Building energy simulation is increasingly used beyond the design phase for code compliance, retrofit analysis, measurement and verification (M&amp;amp;V), as well as operations and controls. However, current modelling process is filled with redundancies. Models used to perform and evaluate parametric design strategies (during the design phase) are typically not the same models that are used for M&amp;amp;V or for subsequent retrofit analysis. Updating models and calibrating them with sensor data is also filled with redundancies because these information and models are typically not shared. As a result, there is often a need to re-map sensor data, recalibrate and re-update the design energy models, as well as re-analyse model outputs, all of which are challenging time-consuming tasks with high engineering cost.&lt;/p&gt;
+
+&lt;p&gt;Combined with tools for automated calibration, model visualization and data analysis, if energy models and the relevant data can be shared, efforts needed to create, calibrate, and analyze energy models would be greatly reduced. The idea is to convert the idea of &amp;ldquo;big data&amp;rdquo; to &amp;ldquo;open data&amp;rdquo; to provide opportunities for innovation and collaborations between the two universities. Data sharing also provides an opportunity to scale-up current energy modeling technologies to the city-scale, further supplementing efforts to create a virtual campus and subsequently a virtual city.&lt;/p&gt;
+
+&lt;p&gt;The objectives of this research project are:
+&lt;ul&gt;
+ &lt;li&gt;Develop a platform that allows seamless integrtion and information exchange between building energy simulation and real-time data from the building&amp;rsquo;s building automation system (BAS) and to promote &amp;ldquo;open data&amp;rdquo;, scaling up opportunities and the potential of using energy simulation in various applications such as chiller optimization.&lt;/li&gt;
+ &lt;li&gt;Investigate the practical implementation of a schema for mapping data from the building automation systems to building energy models, a crucial step before using any data for building energy simulation.&lt;/li&gt;
+ &lt;li&gt;Implement an automated calibration framework so that calibration can be easily carried out.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0800</pubDate>
@@ -140,6 +170,60 @@ rm Untitled.md
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Deep Reinforcement Learning Approach to Using Whole Building Energy Model For HVAC Optimal Control</title>
+      <link>/publication/zhang-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/zhang-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green and cool roofs’ urban heat island mitigation potential in tropical climate</title>
+      <link>/publication/yang-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/yang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines for the Bayesian calibration of building energy models</title>
+      <link>/publication/chong-2018527/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2018527/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of MCMC algorithms for the Bayesian calibration of building energy models</title>
+      <link>/publication/chong-2017-comparison/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2017-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian calibration of building energy models with large datasets</title>
+      <link>/publication/chong-2017343/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2017343/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy utilizability concept as a retrofitting solution selection criterion for buildings</title>
+      <link>/publication/yang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/yang-2017/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -499,17 +583,30 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
+      <title>Improving evolutionary algorithm performance for integer type multi-objective building system design optimization</title>
+      <link>/publication/xu-2016714/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>/publication/xu-2016714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imputation of missing values in building sensor data</title>
+      <link>/publication/chong-2016-missing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2016-missing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective optimization of building envelope, lighting and HVAC system designs</title>
+      <link>/publication/xu-2016-multi/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/xu-2016-multi/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -564,17 +661,39 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
+      <title>Uncertainty analysis and parameter estimation of HVAC systems in building energy models</title>
+      <link>/publication/chong-2015-hvac/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
       
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>/publication/chong-2015-hvac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty analysis in building energy simulation: A practical approach</title>
+      <link>/publication/chong-2015-practical/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2015-practical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the envelope performance of commercial office buildings in Singapore</title>
+      <link>/publication/chong-201366/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-201366/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation of misting fans in hot and humid climate</title>
+      <link>/publication/wong-20102666/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/wong-20102666/</guid>
+      <description></description>
     </item>
     
     <item>

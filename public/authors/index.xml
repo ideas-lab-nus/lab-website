@@ -6,7 +6,7 @@
     <description>Recent content in Authors on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,270 @@
     <item>
       <title>admin</title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
+      <title>Adrian Chong</title>
+      <link>/authors/adrian-chong/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/authors/robert-ford/</guid>
+      <guid>/authors/adrian-chong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ngoc-Tri Ngo</title>
+      <link>/authors/ngoc-tri-ngo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/ngoc-tri-ngo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Song Chao</title>
+      <link>/authors/song-chao/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/song-chao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weili Xu</title>
+      <link>/authors/weili-xu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/weili-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andri Pyrgou</title>
+      <link>/authors/andri-pyrgou/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/andri-pyrgou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chenlu Zhang</title>
+      <link>/authors/chenlu-zhang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/chenlu-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denia Kolokotsa</title>
+      <link>/authors/denia-kolokotsa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/denia-kolokotsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devi llamathy Mohan Kumar</title>
+      <link>/authors/devi-llamathy-mohan-kumar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/devi-llamathy-mohan-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junjing Yang</title>
+      <link>/authors/junjing-yang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/junjing-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathrin Menberg</title>
+      <link>/authors/kathrin-menberg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/kathrin-menberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khee Poh Lam</title>
+      <link>/authors/khee-poh-lam/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/khee-poh-lam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mat Santamouris</title>
+      <link>/authors/mat-santamouris/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/mat-santamouris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siew Eang Lee</title>
+      <link>/authors/siew-eang-lee/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/siew-eang-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siliang Lu</title>
+      <link>/authors/siliang-lu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/siliang-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuqi Pan</title>
+      <link>/authors/yuqi-pan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/yuqi-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiang Zhang</title>
+      <link>/authors/zhiang-zhang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/zhiang-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chandra Sekhar</title>
+      <link>/authors/chandra-sekhar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/chandra-sekhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Kok Wai Cheong</title>
+      <link>/authors/david-kok-wai-cheong/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/david-kok-wai-cheong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kwok Wai Tham</title>
+      <link>/authors/kwok-wai-tham/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/kwok-wai-tham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matteo Pozzi</title>
+      <link>/authors/matteo-pozzi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/matteo-pozzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omer T Karaguzel</title>
+      <link>/authors/omer-t-karaguzel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/omer-t-karaguzel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omer T. Karaguzel</title>
+      <link>/authors/omer-t.-karaguzel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/omer-t.-karaguzel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chong Adrian</title>
+      <link>/authors/chong-adrian/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/chong-adrian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ignatius Marcel</title>
+      <link>/authors/ignatius-marcel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/ignatius-marcel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jusuf Steve Kardinal</title>
+      <link>/authors/jusuf-steve-kardinal/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/jusuf-steve-kardinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wong Nyuk Hien</title>
+      <link>/authors/wong-nyuk-hien/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/wong-nyuk-hien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. H. Wong</title>
+      <link>/authors/n.-h.-wong/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/n.-h.-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test-person-1</title>
+      <link>/authors/test-person-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/test-person-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test-person-2</title>
+      <link>/authors/test-person-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/test-person-2/</guid>
       <description></description>
     </item>
     
