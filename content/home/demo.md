@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Demos"
-subtitle = ""
+#title = "IDEAS Lab"
+#subtitle = "Integrated Data, Energy Analysis + Simulation"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,18 +22,18 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -47,16 +47,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+![](img/ideaslab_nus_logo.jpg)
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+**IDEAS Lab** is a research group in the [Department of Building](http://www.bdg.nus.edu.sg) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) that engages in the integration building performance simulation with real-time data and machine learning. The group focuses on various aspects of building performance simulation including uncertainty quantification, model calibration, and building data analytics with the aim of creating energy efficient and healthier buildings.
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
