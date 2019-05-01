@@ -38,5 +38,14 @@
       <description>Development of a web-based platform for integrating building energy simulation and IoT data. A collaborative project Professor Yan Da (Tsinghua University).</description>
     </item>
     
+    <item>
+      <title>Lifecycle BIM Integration with Energy MM&amp;V for Net Zero Energy Building</title>
+      <link>/project/lifecycle-bim/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/lifecycle-bim/</guid>
+      <description>Bridging information and operation gaps in the BIM to BEM process by (1) Implementing a flexible BIM to BEM framework, and (2) continuous Bayesian calibration using BIM and energy data. Funded by Singapore’s National Research Foundation (NRF) through Building and Construction Authority (BCA)&amp;rsquo;s Green Buildings Innovation Cluster (GBIC) R&amp;amp;D Grant.</description>
+    </item>
+    
   </channel>
 </rss>

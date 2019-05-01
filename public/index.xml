@@ -247,6 +247,20 @@ rm Untitled.md
     </item>
     
     <item>
+      <title>Lifecycle BIM Integration with Energy MM&amp;V for Net Zero Energy Building</title>
+      <link>/project/lifecycle-bim/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/lifecycle-bim/</guid>
+      <description>&lt;p&gt;An NUS project funded by the Republic of Singapore’s National Research Foundation (NRF) through Building and Construction Authority (BCA)&amp;rsquo;s Green Buildings Innovation Cluster (GBIC) R&amp;amp;D Grant, and in collaboration with &lt;a href=&#34;https://www.buildsim.io&#34; target=&#34;_blank&#34;&gt;BuildSimHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The aim of this project is the development of a practical Building Information Model (BIM) to Building Energy Model (BEM) framework by bridging information and operation gaps in the current BIM to BEM process.&lt;/p&gt;
+
+&lt;p&gt;As part of the project, an &lt;a href=&#34;https://github.com/ideas-lab-nus/gbEplus&#34; target=&#34;_blank&#34;&gt;open-source gbXML to EnergyPlus IDF translator&lt;/a&gt; that provides a flexible plug-in interface through XML modules to provide a gateway to specify inputs to gbXML file during run-time. Continuous &lt;a href=&#34;https://github.com/ideas-lab-nus/bc-stan&#34; target=&#34;_blank&#34;&gt;Bayesian calibration&lt;/a&gt; using BIM and energy data also is used to reduce the effort needed to maintain the energy model while accounting for its uncertainty. Invariably, the model would be up-to-date for use in applications such as retrofit analysis, fault detection, and model predictive control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Academic: the website builder for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
