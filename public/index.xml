@@ -99,6 +99,26 @@ rm Untitled.md
     </item>
     
     <item>
+      <title>Quantification and classification of high-dimensional chiller data for whole building performance simulation</title>
+      <link>/project/chiller-performance/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/project/chiller-performance/</guid>
+      <description>&lt;p&gt;An NUS project funded by &lt;a href=&#34;http://carrier.com.sg&#34; target=&#34;_blank&#34;&gt;Carrier Singapore&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The simulations community has over the past four decades attempted to better represent actual building behavior by including more and more sub-physics in building energy models. As a result, today’s models are getting increasingly complex and detailed. Consequently, for the simulation to be reliable, a large amount of data or information required, which is often impossible or impractical in reality. For the practitioner to progress, assumptions must be made about the missing information, introducing uncertainties into the model. Although it is important to reduce this uncertainty to zero, it is important that different sources of uncertainties are identified and accounted for so that risks are considered when using these models in the decision-making process. Currently, there is no building simulation study, framework or tool that allows an ad hoc approach to the quantification of the effects of uncertainty in chillers, despite methods existing in theory to provide a structure for a detailed uncertainty analysis and quantification. Combined with an automated calibration approach, the model is updated with building specific measured data and fine-tuned so that the model produces outputs that closely matches the actual building system. The calibrated model can then be used to monitor, analyze and benchmark chiller performance during operation.&lt;/p&gt;
+
+&lt;p&gt;The objectives of this study are to:
+&lt;ul&gt;
+  &lt;li&gt;Discover patterns or clusters in chiller data not apparent in simple averages and use these patterns to identify relationships with meta-data (e.g. building types) and to identify corresponding physical models.&lt;/li&gt;
+  &lt;li&gt;Identify sources of uncertainties as they impact upon building energy modelling (BEM).&lt;/li&gt;
+  &lt;li&gt;Quantify uncertainty around model parameters using actual measured data.&lt;/li&gt;
+  &lt;li&gt;Optimize chiller operation and minimize energy consumption of the cooling system. &lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Continuous-time Bayesian calibration of energy models using BIM and energy data</title>
       <link>/publication/chong-2019177/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>

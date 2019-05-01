@@ -41,6 +41,35 @@
   </url>
   
   <url>
+    <loc>/tags/building-enegy-simulation/</loc>
+    <lastmod>2019-01-22T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/chiller-performance/</loc>
+    <lastmod>2019-01-22T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-01-22T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/chiller-performance/</loc>
+    <lastmod>2019-01-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
     <priority>0</priority>
@@ -111,12 +140,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/uncertainty-analysis/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
     <priority>0</priority>
@@ -139,12 +162,6 @@
   </url>
   
   <url>
-    <loc>/tags/building-enegy-simulation/</loc>
-    <lastmod>2018-07-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/project/bem-measurement-verification/</loc>
     <lastmod>2018-07-01T00:00:00+08:00</lastmod>
   </url>
@@ -152,12 +169,6 @@
   <url>
     <loc>/project/integrated-bem-platform/</loc>
     <lastmod>2018-07-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2018-07-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
