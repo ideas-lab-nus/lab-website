@@ -9,9 +9,9 @@ education:
     institution: National University of Singapore
 email: "mahmoud@u.nus.edu"
 interests:
-- Building performace.
-- Computational Intelligence.
-- Spatio-temporal data analytics.
+- Building performace
+- Computational Intelligence
+- Spatio-temporal data analytics
 name: Mahmoud AbdelRahman
 organizations:
 - name: National University of Singapore
@@ -35,6 +35,6 @@ user_groups:
 - Lab Affiliates
 ---
 
-Mahmoud is a PhD. student at the Department of Building, at NUS, his current research interest is in spatio-temporal data analytics in the built environment for improving human wellness in the built enviroment. also he has experience in building performance modelling and simulation and Computational Intelligence.
+Mahmoud is a PhD. student at the Department of Building, at NUS, his current research interest is in spatio-temporal data analytics in the built environment for improving human wellness in the built enviroment. also he has experience in building performance modelling and simulation and Computational Intelligence in addition to being a full-stack web developer using JavaScript, HTML, CSS and JQuery for the front-end and Python (Djano) + RESTful api, AWS, influxDB (timeseries data management) for the backend web developement. Other programming languages include Python, C++, C# and PHP. 
 
 
