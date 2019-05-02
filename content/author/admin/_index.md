@@ -20,6 +20,9 @@ organizations:
   url: "https://blog.nus.edu.sg/adrianchong/about/"
 role: Assistant Professor
 social:
+# for more icons look at the following links
+# https://jpswalsh.github.io/academicons/
+# https://fortawesome.github.io/Font-Awesome/icons/
 - icon: envelope
   icon_pack: fas
   link: '#contact'
