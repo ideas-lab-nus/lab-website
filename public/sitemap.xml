@@ -573,6 +573,10 @@
   </url>
   
   <url>
+    <loc>/author/hongyuan-jia/</loc>
+  </url>
+  
+  <url>
     <loc>/author/test-person-2/</loc>
   </url>
   
@@ -592,6 +596,11 @@
   
   <url>
     <loc>/slides/example/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hongyuan-jia/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
