@@ -32,6 +32,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/adchong
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9486-4728
 superuser: true
 user_groups:
 - Principal Investigator
