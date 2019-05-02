@@ -1,19 +1,22 @@
 ---
 authors:
 - mahmoud-abdelrahman
-bio: Mahmoud is a PhD. student at the Department of Building, at NUS, his current research interest is in spatio-temporal data analytics in the built environment for improving human wellness in the built enviroment. also he has experience in building performance modelling and simulation and Computational Intelligence. 
+bio: Mahmoud is a PhD. student at the Department of Building, at NUS, his current research interest is in spatio-temporal data analytics in the built environment for improving human wellness in the built enviroment. also he has experience in building performance modelling and simulation and Computational Intelligence.
+  matter.
 education:
-  - 
-email: "mahmoud[at]u.nus.edu"
+  courses:
+  - course: PhD Student
+    institution: National University of Singapore
+email: "mahmoud@u.nus.edu"
 interests:
-- Building performance modelling and simulation.
-- Spatio-temporal data analytics.
+- Building performace.
 - Computational Intelligence.
+- Spatio-temporal data analytics.
 name: Mahmoud AbdelRahman
 organizations:
 - name: National University of Singapore
-  url: "https://blog.nus.edu.sg/adrianchong/about/"
-role: Research Assistant and PhD. student. 
+  url: "http://nus.edu.sg/"
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
