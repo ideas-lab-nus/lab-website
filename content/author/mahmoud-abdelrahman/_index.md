@@ -7,7 +7,7 @@ education:
   courses:
   - course: PhD Student
     institution: National University of Singapore
-email: "mahmoud@u.nus.edu"
+email: ""
 interests:
 - Building performace
 - Computational Intelligence
@@ -20,7 +20,7 @@ role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:mahmoud@u.nus.edu'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mahmoudouf/

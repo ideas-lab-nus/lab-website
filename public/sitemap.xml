@@ -577,6 +577,10 @@
   </url>
   
   <url>
+    <loc>/author/mahmoud-abdelrahman/</loc>
+  </url>
+  
+  <url>
     <loc>/author/test-person-2/</loc>
   </url>
   
@@ -600,6 +604,11 @@
   
   <url>
     <loc>/authors/hongyuan-jia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mahmoud-abdelrahman/</loc>
     <priority>0</priority>
   </url>
   

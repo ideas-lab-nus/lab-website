@@ -21,7 +21,7 @@ role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:hongyuan.jia@bears-berkeley.sg'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hongyuan-jia
