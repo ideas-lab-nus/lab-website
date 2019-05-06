@@ -138,12 +138,6 @@
   </url>
   
   <url>
-    <loc>/authors/song-chao/</loc>
-    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/uncertainty-analysis/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
     <priority>0</priority>
@@ -151,6 +145,12 @@
   
   <url>
     <loc>/authors/weili-xu/</loc>
+    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/song-chao/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -582,6 +582,10 @@
   
   <url>
     <loc>/author/mahmoud-abdelrahman/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/song-chao/</loc>
   </url>
   
   <url>

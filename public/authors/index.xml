@@ -39,20 +39,20 @@
     </item>
     
     <item>
-      <title>Song Chao</title>
-      <link>/authors/song-chao/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/song-chao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Weili Xu</title>
       <link>/authors/weili-xu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>/authors/weili-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>song-chao</title>
+      <link>/authors/song-chao/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/song-chao/</guid>
       <description></description>
     </item>
     
