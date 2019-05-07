@@ -1,8 +1,7 @@
 ---
 authors:
 - sicheng-zhan
-bio: Sicheng is a PhD student in the Department of Building, NUS. His research interest lies in building energy modeling, building data analytics and adaptive model predictive control, with the goal of building energy saving. 
-  matter.
+bio: Sicheng is a PhD student in the Department of Building, NUS. His research interest lies in building energy modeling, building data analytics and adaptive model predictive control, with the goal of building energy saving.
 education:
   - course: MS in Advanced Infrastructure System
     institution: Carnegie Mellon University
