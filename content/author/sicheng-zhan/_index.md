@@ -7,7 +7,6 @@ education:
   - course: MS in Advanced Infrastructure System
     institution: Carnegie Mellon University
     year: 2017
-  courses:
   - course: BS in Energy Engineering
     institution: Zhejiang University
     year: 2016
