@@ -585,15 +585,11 @@
   </url>
   
   <url>
+    <loc>/author/sicheng-zhan/</loc>
+  </url>
+  
+  <url>
     <loc>/author/song-chao/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/test-person-2/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/test-person/</loc>
   </url>
   
   <url>
@@ -621,12 +617,7 @@
   </url>
   
   <url>
-    <loc>/authors/test-person-1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/test-person-2/</loc>
+    <loc>/authors/sicheng-zhan/</loc>
     <priority>0</priority>
   </url>
   
