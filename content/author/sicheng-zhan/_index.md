@@ -1,6 +1,6 @@
 ---
 authors:
-- sicheng--zhan
+- sicheng-zhan
 bio: 
   matter.
 education:
