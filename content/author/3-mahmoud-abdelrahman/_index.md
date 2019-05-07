@@ -1,8 +1,8 @@
 ---
 authors:
-- mahmoud-abdelrahman
+- 3-mahmoud-abdelrahman
 bio: Mahmoud is a PhD. student at the Department of Building, at NUS, his current research interest is in spatio-temporal data analytics in the built environment for improving human wellness in the built enviroment. also he has experience in building performance modelling and simulation and Computational Intelligence.
-  matter.
+
 education:
   courses:
   - course: PhD Student
@@ -16,7 +16,7 @@ name: Mahmoud AbdelRahman
 organizations:
 - name: National University of Singapore
   url: "http://nus.edu.sg/"
-role: PhD Student
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,9 +32,9 @@ social:
   link: https://github.com/MahmoudAbdelRahman
 superuser: true
 user_groups:
-- Lab Affiliates
+- PhD Students / Research Assistants
 ---
 
-Mahmoud is a PhD. student at the Department of Building, at NUS, his current research interest is in spatio-temporal data analytics in the built environment for improving human wellness in the built enviroment. also he has experience in building performance modelling and simulation and Computational Intelligence in addition to being a full-stack web developer using JavaScript, HTML, CSS and JQuery for the front-end and Python (Djano) + RESTful api, AWS, influxDB (timeseries data management) for the backend web developement. Other programming languages include Python, C++, C# and PHP. 
+Mahmoud is a Research Assistant at the IDEAS Lab. He is also a PhD. student at the Department of Building, at NUS under Dr. Clayton Miller's supervision. His current research interest is in spatio-temporal data analytics in the built environment for improving human wellness in the built enviroment. also he has experience in building performance modelling and simulation and Computational Intelligence in addition to being a full-stack web developer using JavaScript, HTML, CSS and JQuery for the front-end and Python (Djano) + RESTful api, AWS, influxDB (timeseries data management) for the backend web developement. Other programming languages include Python, C++, C# and PHP. 
 
 

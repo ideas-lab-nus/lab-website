@@ -138,6 +138,12 @@
   </url>
   
   <url>
+    <loc>/authors/song-chao/</loc>
+    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/uncertainty-analysis/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
     <priority>0</priority>
@@ -145,12 +151,6 @@
   
   <url>
     <loc>/authors/weili-xu/</loc>
-    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/song-chao/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -573,6 +573,22 @@
   </url>
   
   <url>
+    <loc>/author/1-sicheng-zhan/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/2-yaonan-gu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/3-mahmoud-abdelrahman/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/4-song-chao/</loc>
+  </url>
+  
+  <url>
     <loc>/author/admin/</loc>
   </url>
   
@@ -581,15 +597,23 @@
   </url>
   
   <url>
-    <loc>/author/mahmoud-abdelrahman/</loc>
+    <loc>/authors/1-sicheng-zhan/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/author/sicheng-zhan/</loc>
+    <loc>/authors/2-yaonan-gu/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/author/song-chao/</loc>
+    <loc>/authors/3-mahmoud-abdelrahman/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/4-song-chao/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -608,16 +632,6 @@
   
   <url>
     <loc>/authors/hongyuan-jia/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/mahmoud-abdelrahman/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/sicheng-zhan/</loc>
     <priority>0</priority>
   </url>
   

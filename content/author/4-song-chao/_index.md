@@ -1,6 +1,7 @@
 ---
 authors:
-- song-chao
+- 4-song-chao
+
 bio: My research interests include mathematical modeling and numerical simulation
   matter.
 education:
@@ -28,7 +29,7 @@ social:
   link: 'mailto:bdgsc@nus.edu.sg'
 superuser: true
 user_groups:
-- Grad Students
+- PhD Students / Research Assistants
 ---
 
 Song Chao is a Research Assistant in the [Department of Building](http://www.bdg.nus.edu.sg) at the [National University of Singapore (NUS)](http://www.nus.edu.sg). He specializes in mathematical modelling and numerical simulation. He is a researcher of the Integrated Data, Energy Analysis + Simulation (IDEAS) research group, which engages in the interaction between building performance simulation, real-time data and machine learning.

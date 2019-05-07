@@ -1,12 +1,11 @@
 ---
 authors:
-- yaonan-gu
+- 2-yaonan-gu
 bio: Yaonan is an PhD student in the Department of Building, National University of Singapore (NUS). Her research interests mainly include energy modelling, the applications of machine learning and statistical modelling to building data and Bayesian calibration.
 
-  matter.
 education:
   courses:
-  - course: MS in Building Performance and Sustainability
+  - course: MSc in Building Performance and Sustainability
     institution: National University of Singapore
     year: 2018
 email: ""
@@ -34,7 +33,7 @@ social:
   link: https://github.com/ClaireGyn
 superuser: true
 user_groups:
-- Grad Students
+- PhD Students / Research Assistants 
 ---
 
 Yaonan is an PhD student in the Department of Building, National University of Singapore (NUS). Her research interests mainly include energy modelling, the applications of machine learning and statistical modelling to building data and Bayesian calibration.

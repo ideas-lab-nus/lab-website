@@ -11,8 +11,8 @@ subtitle = ""
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Postdoctoral Researchers",
-               "Grad Students",
-               "Lab Affiliates",
-               "Visitors",
-               "Alumni"]
+               "PhD Students / Research Assistants",
+               "Lab Affiliates"]
+#               "Visitors",
+#               "Alumni"]
 +++

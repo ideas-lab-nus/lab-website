@@ -39,20 +39,20 @@
     </item>
     
     <item>
+      <title>Song Chao</title>
+      <link>/authors/song-chao/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/song-chao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Weili Xu</title>
       <link>/authors/weili-xu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>/authors/weili-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>song-chao</title>
-      <link>/authors/song-chao/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/song-chao/</guid>
       <description></description>
     </item>
     
@@ -264,29 +264,47 @@
     </item>
     
     <item>
+      <title>1-sicheng-zhan</title>
+      <link>/authors/1-sicheng-zhan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/1-sicheng-zhan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-yaonan-gu</title>
+      <link>/authors/2-yaonan-gu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/2-yaonan-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-mahmoud-abdelrahman</title>
+      <link>/authors/3-mahmoud-abdelrahman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/3-mahmoud-abdelrahman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4-song-chao</title>
+      <link>/authors/4-song-chao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/4-song-chao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hongyuan-jia</title>
       <link>/authors/hongyuan-jia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/hongyuan-jia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mahmoud-abdelrahman</title>
-      <link>/authors/mahmoud-abdelrahman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mahmoud-abdelrahman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sicheng-zhan</title>
-      <link>/authors/sicheng-zhan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sicheng-zhan/</guid>
       <description></description>
     </item>
     
