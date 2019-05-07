@@ -14,7 +14,7 @@ interests:
 name: Sicheng (James) Zhan
 organizations:
 - name: National University of Singapore
-  url: ''
+  url: ""
 role: PhD Student
 social:
 - icon: envelope
