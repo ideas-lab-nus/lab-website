@@ -577,15 +577,23 @@
   </url>
   
   <url>
-    <loc>/author/2-yaonan-gu/</loc>
+    <loc>/author/1-yaonan-gu/</loc>
   </url>
   
   <url>
-    <loc>/author/3-mahmoud-abdelrahman/</loc>
+    <loc>/author/1-yue-lei/</loc>
   </url>
   
   <url>
-    <loc>/author/4-song-chao/</loc>
+    <loc>/author/2-mahmoud-abdelrahman/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/2-siyu-cheng/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/2-song-chao/</loc>
   </url>
   
   <url>
@@ -602,17 +610,27 @@
   </url>
   
   <url>
-    <loc>/authors/2-yaonan-gu/</loc>
+    <loc>/authors/1-yaonan-gu/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/3-mahmoud-abdelrahman/</loc>
+    <loc>/authors/1-yue-lei/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/4-song-chao/</loc>
+    <loc>/authors/2-mahmoud-abdelrahman/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/2-siyu-cheng/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/2-song-chao/</loc>
     <priority>0</priority>
   </url>
   

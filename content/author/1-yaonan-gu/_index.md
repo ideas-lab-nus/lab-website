@@ -1,6 +1,6 @@
 ---
 authors:
-- 2-yaonan-gu
+- 1-yaonan-gu
 bio: Yaonan is an PhD student in the Department of Building, National University of Singapore (NUS). Her research interests mainly include energy modelling, the applications of machine learning and statistical modelling to building data and Bayesian calibration.
 
 education:
