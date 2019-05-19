@@ -35,6 +35,6 @@ user_groups:
 - Lab Affiliates
 ---
 
-Mahmoud is a PhD. student at the Department of Building, at NUS, his current research interest is in spatio-temporal data analytics in the built environment for improving human wellness in the built enviroment. also he has experience in building performance modelling and simulation and Computational Intelligence in addition to being a full-stack web developer using JavaScript, HTML, CSS and JQuery for the front-end and Python (Djano) + RESTful api, AWS, influxDB (timeseries data management) for the backend web developement. Other programming languages include Python, C++, C# and PHP. 
+Mahmoud is a PhD. student at the Department of Building, at NUS, his current research interest is in spatio-temporal data analytics in the built environment for improving human wellness. Also he has experience in building performance modelling and simulation and Computational Intelligence in addition to being a full-stack web developer using JavaScript, HTML, CSS and JQuery for the front-end and Python (Djano) + RESTful api, AWS, influxDB (timeseries data management) for the backend. Other programming languages include Python, C++, C# and PHP. 
 
 
