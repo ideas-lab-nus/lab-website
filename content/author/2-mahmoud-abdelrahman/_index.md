@@ -35,10 +35,6 @@ user_groups:
 - PhD Students / Research Assistants
 ---
 
-<<<<<<< HEAD:content/author/mahmoud-abdelrahman/_index.md
 Mahmoud is a PhD. student at the Department of Building, at NUS, his current research interest is in spatio-temporal data analytics in the built environment for improving human wellness. Also he has experience in building performance modelling and simulation and Computational Intelligence in addition to being a full-stack web developer using JavaScript, HTML, CSS and JQuery for the front-end and Python (Djano) + RESTful api, AWS, influxDB (timeseries data management) for the backend. Other programming languages include Python, C++, C# and PHP. 
-=======
-Mahmoud is a Research Assistant at the IDEAS Lab. He is also a PhD. student at the Department of Building, at NUS under Dr. Clayton Miller's supervision. His current research interest is in spatio-temporal data analytics in the built environment for improving human wellness in the built enviroment. also he has experience in building performance modelling and simulation and Computational Intelligence in addition to being a full-stack web developer using JavaScript, HTML, CSS and JQuery for the front-end and Python (Djano) + RESTful api, AWS, influxDB (timeseries data management) for the backend web developement. Other programming languages include Python, C++, C# and PHP. 
->>>>>>> master:content/author/2-mahmoud-abdelrahman/_index.md
 
 
