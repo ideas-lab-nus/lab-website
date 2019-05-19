@@ -264,20 +264,65 @@
     </item>
     
     <item>
-      <title>test-person-1</title>
-      <link>/authors/test-person-1/</link>
+      <title>1-sicheng-zhan</title>
+      <link>/authors/1-sicheng-zhan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/test-person-1/</guid>
+      <guid>/authors/1-sicheng-zhan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>test-person-2</title>
-      <link>/authors/test-person-2/</link>
+      <title>1-yaonan-gu</title>
+      <link>/authors/1-yaonan-gu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/test-person-2/</guid>
+      <guid>/authors/1-yaonan-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1-yue-lei</title>
+      <link>/authors/1-yue-lei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/1-yue-lei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-mahmoud-abdelrahman</title>
+      <link>/authors/2-mahmoud-abdelrahman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/2-mahmoud-abdelrahman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-siyu-cheng</title>
+      <link>/authors/2-siyu-cheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/2-siyu-cheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-song-chao</title>
+      <link>/authors/2-song-chao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/2-song-chao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hongyuan-jia</title>
+      <link>/authors/hongyuan-jia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hongyuan-jia/</guid>
       <description></description>
     </item>
     

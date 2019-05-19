@@ -34,7 +34,7 @@ title = "IDEAS Lab"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#contact"
+  url = "post/join-us"
   label = "Join Us"
 #icon_pack = "fas"
 #icon = "download"

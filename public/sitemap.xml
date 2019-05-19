@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/join-us/</loc>
+  </url>
+  
+  <url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+08:00</lastmod>
   </url>
@@ -569,15 +573,65 @@
   </url>
   
   <url>
+    <loc>/author/1-sicheng-zhan/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/1-yaonan-gu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/1-yue-lei/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/2-mahmoud-abdelrahman/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/2-siyu-cheng/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/2-song-chao/</loc>
+  </url>
+  
+  <url>
     <loc>/author/admin/</loc>
   </url>
   
   <url>
-    <loc>/author/test-person-2/</loc>
+    <loc>/author/hongyuan-jia/</loc>
   </url>
   
   <url>
-    <loc>/author/test-person/</loc>
+    <loc>/authors/1-sicheng-zhan/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/1-yaonan-gu/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/1-yue-lei/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/2-mahmoud-abdelrahman/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/2-siyu-cheng/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/2-song-chao/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -595,12 +649,7 @@
   </url>
   
   <url>
-    <loc>/authors/test-person-1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/test-person-2/</loc>
+    <loc>/authors/hongyuan-jia/</loc>
     <priority>0</priority>
   </url>
   

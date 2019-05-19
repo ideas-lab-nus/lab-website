@@ -1,1 +1,7 @@
 public/
+.Rproj.user/*
+content/.DS_Store
+.DS_Store
+.Rhistory
+content/author/.DS_Store
+.Rproj.user
