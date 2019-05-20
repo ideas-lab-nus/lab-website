@@ -27,7 +27,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:bdgsc@nus.edu.sg'
-superuser: true
 user_groups:
 - PhD Students / Research Assistants
 ---

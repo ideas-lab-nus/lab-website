@@ -31,7 +31,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ClaireGyn
-superuser: true
 user_groups:
 - PhD Students / Research Assistants 
 ---

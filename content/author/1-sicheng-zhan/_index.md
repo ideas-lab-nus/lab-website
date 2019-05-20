@@ -24,7 +24,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sichengzhan/
-superuser: true
 user_groups:
 - PhD Students / Research Assistants
 ---

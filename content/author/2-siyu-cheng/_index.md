@@ -31,7 +31,6 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/
-superuser: true
 user_groups:
 - PhD Students / Research Assistants
 ---

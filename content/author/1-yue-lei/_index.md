@@ -31,7 +31,6 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/scientific-contributions/2079874594_Yue_Lei
-superuser: true
 user_groups:
 - PhD Students / Research Assistants
 ---
