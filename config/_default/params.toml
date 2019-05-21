@@ -15,7 +15,7 @@ font = "default"
 description = "Integrated Data, Energy Analysis + Simulation"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "logo.png"
+sharing_image = "icon.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
