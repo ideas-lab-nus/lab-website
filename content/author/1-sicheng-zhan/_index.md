@@ -12,7 +12,7 @@ interests:
 - Building Energy Simulation
 - Building Data Analytics
 - Model Predictive Control
-name: Sicheng Zhan
+name: Sicheng (James) Zhan
 organizations:
 - name: National University of Singapore
   url: ""
