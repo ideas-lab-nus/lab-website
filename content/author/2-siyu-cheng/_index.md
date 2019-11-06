@@ -27,7 +27,7 @@ social:
   link: 'mailto:bdgchsi@nus.edu.sg'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/
+  link: https://www.linkedin.com/in/SiyuCheng-0601/
 #- icon: researchgate
 #  icon_pack: fab
 #  link: https://www.researchgate.net/
