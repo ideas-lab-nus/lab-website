@@ -33,6 +33,3 @@ social:
 #  link: https://www.researchgate.net/
 user_groups:
 - PhD Students / Research Assistants
----
-
-Siyu Cheng is a 
