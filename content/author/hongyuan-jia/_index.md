@@ -22,6 +22,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hongyuan.jia@bears-berkeley.sg'
+- icon: blogger
+  icon_pack: fab
+  link: https://hongyuanjia.me/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hongyuan-jia
@@ -39,5 +42,8 @@ Hongyuan Jia is a postdoctoral fellow at the [Berkeley Education Alliance for
 Rearch in Singapore](http://sinberbest.berkeley.edu/). He specializes in
 building performance modelling and simulation, with expertise in parametric
 building modelling tooling and analysis. He is the author of R package
-[eplusr](https://hongyuanjia.github.io/eplusr) which provides a rich toolkit for
-doing building energy simulation using EnergyPlus in R.
+[eplusr](https://hongyuanjia.github.io/eplusr),
+[epluspar](hongyuanjia.github.io/epluspar),
+[epwshiftr](ideas-lab-nus.github.io/epwshiftr/) which provides a rich toolkit
+for doing parametric building energy simulation using EnergyPlus under climate
+changes.
