@@ -46,6 +46,10 @@ subtitle = ""
     name = "Building Energy Model Calibration"
     tag = "Building Energy Model Calibration"
 
+  [[content.filter_button]]
+    name = "Natural Language Processing"
+    tag = "Natural Language Processing"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

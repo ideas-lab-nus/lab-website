@@ -178,6 +178,11 @@
   </url>
   
   <url>
+    <loc>/project/data-segment/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/climate-change/</loc>
     <lastmod>2020-08-08T00:00:00+08:00</lastmod>
   </url>
@@ -214,6 +219,11 @@
   
   <url>
     <loc>/tags/model-predictive-control-mpc/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/natural-language-processing/</loc>
     <lastmod>2020-08-08T00:00:00+08:00</lastmod>
   </url>
   
