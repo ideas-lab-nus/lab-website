@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on IDEAS Lab</title>
@@ -6,10 +6,91 @@
     <description>Recent content in Authors on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adrian Chong</title>
+      <link>/authors/adrian-chong/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/adrian-chong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Da Yan</title>
+      <link>/authors/da-yan/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/da-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godfried Augenbroe</title>
+      <link>/authors/godfried-augenbroe/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/godfried-augenbroe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hongyuan-jia</title>
+      <link>/authors/hongyuan-jia/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/hongyuan-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Song Chao</title>
+      <link>/authors/song-chao/</link>
+      <pubDate>Sat, 07 Sep 2019 17:47:28 +0200</pubDate>
+      
+      <guid>/authors/song-chao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haopeng Wang</title>
+      <link>/authors/haopeng-wang/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/haopeng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khee Poh Lam</title>
+      <link>/authors/khee-poh-lam/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/khee-poh-lam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weili Xu</title>
+      <link>/authors/weili-xu/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/weili-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhan Sicheng</title>
+      <link>/authors/zhan-sicheng/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/zhan-sicheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>admin</title>
@@ -21,11 +102,11 @@
     </item>
     
     <item>
-      <title>Adrian Chong</title>
-      <link>/authors/adrian-chong/</link>
+      <title>Chenlu Zhang</title>
+      <link>/authors/chenlu-zhang/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/authors/adrian-chong/</guid>
+      <guid>/authors/chenlu-zhang/</guid>
       <description></description>
     </item>
     
@@ -39,20 +120,20 @@
     </item>
     
     <item>
-      <title>Song Chao</title>
-      <link>/authors/song-chao/</link>
+      <title>Yuqi Pan</title>
+      <link>/authors/yuqi-pan/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/authors/song-chao/</guid>
+      <guid>/authors/yuqi-pan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Weili Xu</title>
-      <link>/authors/weili-xu/</link>
+      <title>Zhiang Zhang</title>
+      <link>/authors/zhiang-zhang/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/authors/weili-xu/</guid>
+      <guid>/authors/zhiang-zhang/</guid>
       <description></description>
     </item>
     
@@ -62,15 +143,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
       
       <guid>/authors/andri-pyrgou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chenlu Zhang</title>
-      <link>/authors/chenlu-zhang/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/chenlu-zhang/</guid>
       <description></description>
     </item>
     
@@ -111,15 +183,6 @@
     </item>
     
     <item>
-      <title>Khee Poh Lam</title>
-      <link>/authors/khee-poh-lam/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/khee-poh-lam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mat Santamouris</title>
       <link>/authors/mat-santamouris/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
@@ -143,24 +206,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
       
       <guid>/authors/siliang-lu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuqi Pan</title>
-      <link>/authors/yuqi-pan/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/yuqi-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhiang Zhang</title>
-      <link>/authors/zhiang-zhang/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/zhiang-zhang/</guid>
       <description></description>
     </item>
     
@@ -309,20 +354,29 @@
     </item>
     
     <item>
-      <title>2-song-chao</title>
-      <link>/authors/2-song-chao/</link>
+      <title>Lei-Xu</title>
+      <link>/authors/lei-xu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/2-song-chao/</guid>
+      <guid>/authors/lei-xu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hongyuan-jia</title>
-      <link>/authors/hongyuan-jia/</link>
+      <title>shuxu-qin</title>
+      <link>/authors/shuxu-qin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/hongyuan-jia/</guid>
+      <guid>/authors/shuxu-qin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wenxin-li</title>
+      <link>/authors/wenxin-li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wenxin-li/</guid>
       <description></description>
     </item>
     
