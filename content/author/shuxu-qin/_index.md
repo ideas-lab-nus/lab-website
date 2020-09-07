@@ -14,10 +14,11 @@ interests:
   - Human Wellness Solution and Design
   - Data Analytics
 name: Shuxu Qin
+weight: 4
 organizations:
-  - name: Berkeley Education Alliance for Rearch in Singapore
-    url: "http://sinberbest.berkeley.edu/"
-role: Research Trainee
+  - name: National University of Singapore
+    url: "https://www.sde.nus.edu.sg/"
+role: Research Apprentice
 social:
   - icon: envelope
     icon_pack: fas

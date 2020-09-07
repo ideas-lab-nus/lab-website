@@ -8,7 +8,10 @@ slides: example-slides
 summary: A framework for seamless integration between Building Energy Simulation (BES) and data-driven analytics.
 tags:
 - Building Enegy Simulation
-title: "A framework for integrating building energy simulation and data-driven analytics"
+- Software Development
+- EnergyPlus
+- R
+title: "eplusr: A framework for integrating building energy simulation and data-driven analytics"
 url_code: "https://github.com/hongyuanjia/eplusr"
 url_pdf: "publication/pdf/jia2020eplusr.pdf"
 url_slides: "https://hongyuanjia.github.io/eplusrIntro"

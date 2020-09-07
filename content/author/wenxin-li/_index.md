@@ -16,10 +16,11 @@ interests:
   - CFD Simulation
   - Data Assimilation
 name: Wenxin Li
+weight: 3
 organizations:
   - name: National University of Singapore
     url: "http://www.nus.edu.sg/"
-    role: Postdoctoral Fellow
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas

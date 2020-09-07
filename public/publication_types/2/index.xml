@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on IDEAS Lab</title>
@@ -6,10 +6,28 @@
     <description>Recent content in 2 on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
+      <link>/publication/jia-2020-eplusr/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/jia-2020-eplusr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupancy data at different spatial resolutions: building energy performance and model calibration</title>
+      <link>/publication/chong-2020-occupancy/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2020-occupancy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Continuous-time Bayesian calibration of energy models using BIM and energy data</title>
@@ -17,6 +35,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>/publication/chong-2019177/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole building energy model for HVAC optimal control: A practical framework based on deep reinforcement learning</title>
+      <link>/publication/zhang-2019472/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/zhang-2019472/</guid>
       <description></description>
     </item>
     

@@ -14,6 +14,7 @@ interests:
 - Data Analytics
 - R Programming
 name: Hongyuan Jia
+weight: 1
 organizations:
 - name: Berkeley Education Alliance for Rearch in Singapore
   url: "http://sinberbest.berkeley.edu/"

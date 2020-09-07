@@ -1,6 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/author/hongyuan-jia/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/lei-xu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/wenxin-li/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/shuxu-qin/</loc>
+  </url>
   
   <url>
     <loc>/post/join-us/</loc>
@@ -12,20 +28,253 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+08:00</lastmod>
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/adrian-chong/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian-calibration/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/building-performance-simulation/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/building-simulation/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/da-yan/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/energy-efficiency/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/energyplus/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/jia-2020-eplusr/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/godfried-augenbroe/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hongyuan-jia/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hvac/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/chong-2020-occupancy/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/occupant-modeling/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/uncertainly-analysis/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/whole-building-energy-model/</loc>
+    <lastmod>2020-09-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cfd/</loc>
+    <lastmod>2020-08-30T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/covid-19/</loc>
+    <lastmod>2020-08-30T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/covid-19/</loc>
+    <lastmod>2020-08-30T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-08-30T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sde4/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/kajima/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/mpc/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/building-enegy-simulation/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/climate-change/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/eplusr/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/epwshiftr/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hvac-system-control/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/resilience/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/lcc/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/model-predictive-control-mpc/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/occupancy-behavior/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software-development/</loc>
+    <lastmod>2020-08-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-09-07T17:47:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/chong-2019-continuous/</loc>
+    <lastmod>2019-09-07T17:47:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/song-chao/</loc>
+    <lastmod>2019-09-07T17:47:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/xu-2019-gbeplus/</loc>
+    <lastmod>2019-09-07T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zhan-2019-robust/</loc>
+    <lastmod>2019-09-07T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/haopeng-wang/</loc>
+    <lastmod>2019-09-07T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/khee-poh-lam/</loc>
+    <lastmod>2019-09-07T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/weili-xu/</loc>
+    <lastmod>2019-09-07T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhan-sicheng/</loc>
+    <lastmod>2019-09-07T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -39,68 +288,18 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/building-enegy-simulation/</loc>
-    <lastmod>2019-01-22T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/chiller-performance/</loc>
-    <lastmod>2019-01-22T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2019-01-22T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/chiller-performance/</loc>
-    <lastmod>2019-01-22T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/adrian-chong/</loc>
-    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/bayesian-calibration/</loc>
-    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/building-information-models-bim/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/chenlu-zhang/</loc>
+    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/continuous-calibration/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -109,50 +308,48 @@
   </url>
   
   <url>
+    <loc>/tags/deep-reinforcement-learning/</loc>
+    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/energy-simulation/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/green-building-xml-gbxml/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/ngoc-tri-ngo/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/tags/optimal-control/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/song-chao/</loc>
-    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/uncertainty-analysis/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/weili-xu/</loc>
+    <loc>/publication/zhang-2019472/</loc>
     <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yuqi-pan/</loc>
+    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhiang-zhang/</loc>
+    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -166,24 +363,23 @@
   </url>
   
   <url>
-    <loc>/project/bem-measurement-verification/</loc>
+    <loc>/tags/building-energy-model-calibration/</loc>
     <lastmod>2018-07-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/integrated-bem-platform/</loc>
+    <loc>/project/mv/</loc>
     <lastmod>2018-07-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -194,55 +390,31 @@
   <url>
     <loc>/authors/andri-pyrgou/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/building-energy-modeling/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/building-simulation/</loc>
-    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/chenlu-zhang/</loc>
-    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/cool-roof/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/denia-kolokotsa/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/devi-llamathy-mohan-kumar/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/energy-efficiency/</loc>
-    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/gaussian-process/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -253,7 +425,6 @@
   <url>
     <loc>/tags/green-roof/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -264,67 +435,41 @@
   <url>
     <loc>/tags/hamiltonian-monte-carlo/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/junjing-yang/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/kathrin-menberg/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/khee-poh-lam/</loc>
-    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/mat-santamouris/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/mitigation-potential/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/siew-eang-lee/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/siliang-lu/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/tropical-climate/</loc>
     <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/yuqi-pan/</loc>
-    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/zhiang-zhang/</loc>
-    <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -340,13 +485,11 @@
   <url>
     <loc>/authors/chandra-sekhar/</loc>
     <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/david-kok-wai-cheong/</loc>
     <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -357,30 +500,21 @@
   <url>
     <loc>/authors/kwok-wai-tham/</loc>
     <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/matteo-pozzi/</loc>
     <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/no-u-turn-sampler/</loc>
     <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/lifecycle-bim/</loc>
-    <lastmod>2016-07-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -391,13 +525,11 @@
   <url>
     <loc>/tags/building-cost-estimation/</loc>
     <lastmod>2016-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/building-system-design/</loc>
     <lastmod>2016-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -413,7 +545,6 @@
   <url>
     <loc>/tags/multi-objective-evolutionary-optimization/</loc>
     <lastmod>2016-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -424,25 +555,21 @@
   <url>
     <loc>/authors/omer-t-karaguzel/</loc>
     <lastmod>2016-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/omer-t.-karaguzel/</loc>
     <lastmod>2016-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/optimization-performance/</loc>
     <lastmod>2016-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -451,27 +578,23 @@
   </url>
   
   <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -487,25 +610,21 @@
   <url>
     <loc>/tags/building-envelope-performance/</loc>
     <lastmod>2013-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/chong-adrian/</loc>
     <lastmod>2013-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/ignatius-marcel/</loc>
     <lastmod>2013-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jusuf-steve-kardinal/</loc>
     <lastmod>2013-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -516,49 +635,41 @@
   <url>
     <loc>/tags/urban-heat-island/</loc>
     <lastmod>2013-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/window-solar-heat-gain/</loc>
     <lastmod>2013-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/wong-nyuk-hien/</loc>
     <lastmod>2013-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/evaporative-cooling/</loc>
     <lastmod>2010-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/hot/</loc>
     <lastmod>2010-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/humid/</loc>
     <lastmod>2010-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/misting-fan/</loc>
     <lastmod>2010-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/n.-h.-wong/</loc>
     <lastmod>2010-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -569,7 +680,6 @@
   <url>
     <loc>/tags/singapore/</loc>
     <lastmod>2010-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -593,55 +703,43 @@
   </url>
   
   <url>
-    <loc>/author/2-song-chao/</loc>
-  </url>
-  
-  <url>
     <loc>/author/admin/</loc>
   </url>
   
   <url>
-    <loc>/author/hongyuan-jia/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/1-sicheng-zhan/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/1-yaonan-gu/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/1-yue-lei/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/2-mahmoud-abdelrahman/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/2-siyu-cheng/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/2-song-chao/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/author/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lei-xu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/shuxu-qin/</loc>
   </url>
   
   <url>
     <loc>/slides/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -649,8 +747,7 @@
   </url>
   
   <url>
-    <loc>/authors/hongyuan-jia/</loc>
-    <priority>0</priority>
+    <loc>/authors/wenxin-li/</loc>
   </url>
   
 </urlset>

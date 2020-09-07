@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on IDEAS Lab</title>
@@ -6,45 +6,91 @@
     <description>Recent content in Projects on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Quantification and classification of high-dimensional chiller data for whole building performance simulation</title>
-      <link>/project/chiller-performance/</link>
-      <pubDate>Tue, 22 Jan 2019 00:00:00 +0800</pubDate>
+      <title>COVID-19: Rethinking building design and operations</title>
+      <link>/project/covid-19/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0800</pubDate>
       
-      <guid>/project/chiller-performance/</guid>
-      <description>Quantifying chiller uncertainties using measured data from more than 200 chillers in Singapore. An NUS project funded by Carrier Singapore.</description>
+      <guid>/project/covid-19/</guid>
+      <description>Experiments and CFD studies for droplet and bioaerosol transmission inside building. A project funded by NUS COVID-19 Research Seed Grant.</description>
     </item>
     
     <item>
-      <title>Generating certified energy models in Singapore through an M&amp;V framework: A pilot study</title>
-      <link>/project/bem-measurement-verification/</link>
+      <title>A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs&#39; performance using building energy simulation</title>
+      <link>/project/sde4/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/sde4/</guid>
+      <description>A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs&amp;rsquo; performance using building energy simulation</description>
+    </item>
+    
+    <item>
+      <title>Advanced machine learning based control for the HVAC systems</title>
+      <link>/project/kajima/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/kajima/</guid>
+      <description>Advanced machine learning based control for the HVAC systems</description>
+    </item>
+    
+    <item>
+      <title>An automated framework for model predictive control</title>
+      <link>/project/mpc/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/mpc/</guid>
+      <description>This study aims at improving the scalability of MPC by addressing
+modeling-related issues and establishing an automated framework.</description>
+    </item>
+    
+    <item>
+      <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
+      <link>/project/eplusr/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/eplusr/</guid>
+      <description>A framework for seamless integration between Building Energy Simulation (BES) and data-driven analytics.</description>
+    </item>
+    
+    <item>
+      <title>Epwshiftr: an R package for creating future weather files under climate changes for building energy simulation</title>
+      <link>/project/epwshiftr/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/epwshiftr/</guid>
+      <description>An R package for creating future weather files under climate changes for building energy simulation</description>
+    </item>
+    
+    <item>
+      <title>Impacts of climate change on building energy systems</title>
+      <link>/project/resilience/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/resilience/</guid>
+      <description>Impacts of climate change on building energy systems</description>
+    </item>
+    
+    <item>
+      <title>Life cycle cost optimization</title>
+      <link>/project/lcc/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/lcc/</guid>
+      <description>Life cycle cost optimization</description>
+    </item>
+    
+    <item>
+      <title>Generating certified energy models in Singapore through an M&amp;V framework.</title>
+      <link>/project/mv/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/project/bem-measurement-verification/</guid>
-      <description>How much information should be gathered in the process of M&amp;amp;V, to reach a desired level of confidence in the resulting building energy model. A collaborative project with Professor Godfried Augenbroe (Georgia Institute of Technology).</description>
-    </item>
-    
-    <item>
-      <title>Integrated web-based platform for lifecycle building energy modeling</title>
-      <link>/project/integrated-bem-platform/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/project/integrated-bem-platform/</guid>
-      <description>Development of a web-based platform for integrating building energy simulation and IoT data. A collaborative project Professor Yan Da (Tsinghua University).</description>
-    </item>
-    
-    <item>
-      <title>Lifecycle BIM Integration with Energy MM&amp;V for Net Zero Energy Building</title>
-      <link>/project/lifecycle-bim/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/project/lifecycle-bim/</guid>
-      <description>Bridging information and operation gaps in the BIM to BEM process by (1) Implementing a flexible BIM to BEM framework, and (2) continuous Bayesian calibration using BIM and energy data. Funded by Singapore’s National Research Foundation (NRF) through Building and Construction Authority (BCA)&amp;rsquo;s Green Buildings Innovation Cluster (GBIC) R&amp;amp;D Grant.</description>
+      <guid>/project/mv/</guid>
+      <description>Generating certified energy models in Singapore through an M&amp;amp;V framework.An NUS project in collaboration with Professor Godfried L. Augenbroe (Georgia Institute of Technology)</description>
     </item>
     
   </channel>

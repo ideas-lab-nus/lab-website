@@ -10,14 +10,15 @@ education:
 email: ""
 interests:
   - Building Demand Side Management
-  - Data-driven Modeling for High Building Performance 
-  - Uncertainty Analysis 
-  - Sustainability 
+  - Data-driven Modeling for High Building Performance
+  - Uncertainty Analysis
+  - Sustainability
 name: Lei Xu
+weight: 2
 organizations:
-  - name: School of Design and Environment
+  - name: National University of Singapore
     url: "https://www.sde.nus.edu.sg/"
-    role: Postdoctoral Fellow
+role: Postdoctoral Fellow
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,5 +33,3 @@ user_groups:
 Lei Xu is a postdoctoral fellow at the [School of Design and Environment](
 https://www.sde.nus.edu.sg/). He specializes in building energy modeling and
 simulation, with expertise in building energy system optimization.
-
-
