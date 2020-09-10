@@ -23,9 +23,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:qinshuxu@nus.edu.sg'
-  - icon: blogger
-    icon_pack: fab
-    link: https://hongyuanjia.me/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/christina-qin-shuxu-319353139/

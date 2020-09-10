@@ -15,6 +15,6 @@ subtitle = ""
 #               "Lab Affiliates"]
 #               "Visitors",
 #               "Alumni"]
-user_groups = ["PhD Students / Research Assistants",
-               "Lab Affiliates"]
+user_groups = ["Postdoctoral Researchers",
+		"PhD Students / Research Assistants"]
 +++
