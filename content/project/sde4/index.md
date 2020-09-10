@@ -5,7 +5,7 @@ summary: "A framework for identifying and quantifying the impact of occupancy-re
 tags:
 - Building Enegy Simulation
 - Occupancy Behavior
-title: "A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs' performance using building energy simulation"
+title: "Quantifying the impact of occupancy on ECMs' performance using building energy simulation"
 url_code: ""
 url_pdf: ""
 url_slides: ""

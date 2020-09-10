@@ -9,7 +9,7 @@ tags:
 - Building Enegy Simulation
 - Machine Learning
 - HVAC System Control
-title: "Advanced machine learning based control for the HVAC systems"
+title: "Advanced machine learning based control for HVAC systems"
 ---
 
 An NUS-Kajima project funded by [Kajima Singapore](https://www.kajima.com.sg/).
