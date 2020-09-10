@@ -38,7 +38,7 @@ social:
   icon_pack: fab
   link: https://orcid.org/0000-0001-9866-6713
 user_groups:
-  - Lab Affiliates
+  - Postdoctoral Researchers
 ---
 
 Wenxin Li is a postdoctoral fellow at the [Department of

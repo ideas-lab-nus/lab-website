@@ -17,7 +17,7 @@ name: Siyu Cheng
 organizations:
 - name: National University of Singapore
   url: "https://blog.nus.edu.sg/yuelei/about/"
-role: Research Assistant
+role: PhD Student
 social:
 # for more icons look at the following links
 # https://jpswalsh.github.io/academicons/

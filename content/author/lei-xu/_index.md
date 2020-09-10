@@ -27,7 +27,7 @@ social:
     icon_pack: fab
     link: https://scholar.google.com.hk/citations?user=snytb8YAAAAJ&hl=zh-CN
 user_groups:
-- Lab Affiliates
+- Postdoctoral Researchers
 ---
 
 Lei Xu is a postdoctoral fellow at the [School of Design and Environment](

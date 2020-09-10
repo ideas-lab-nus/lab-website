@@ -36,7 +36,7 @@ social:
     icon_pack: fab
     link: https://github.com/1ChristinaQin
 user_groups:
-  - Lab Affiliates
+  - PhD Students / Research Assistants
 ---
 
 Shuxu Qin is a research apprentice at the [Department of Building at the

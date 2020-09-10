@@ -36,7 +36,7 @@ social:
   icon_pack: fab
   link: https://github.com/hongyuanjia
 user_groups:
-- Lab Affiliates
+- Postdoctoral Researchers
 ---
 
 Hongyuan Jia is a postdoctoral fellow at the [Berkeley Education Alliance for
