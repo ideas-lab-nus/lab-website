@@ -29,3 +29,13 @@ module stores data in a standard data format, which allows to explore
 a considerably broad pool of ready-to-use methods available in R for customized
 statistical analysis. Most computational-intensive processes have been designed
 to run in parallel for speed-up.
+
+### Acknowledgement
+
+This research is supported by the National Research Foundation, Prime Minister’s
+Office, Singapore under its Campus for Research Excellence and Technological
+Enterprise (CREATE) programme. It was funded through a grant to the Berkeley
+Education Alliance for Research in Singapore (BEARS) for the Singapore-Berkeley
+Building Efficiency and Sustainability in the Tropics (SinBerBEST) Program.
+BEARS has been established by the University of California, Berkeley as a center
+for intellectual excellence in research and education in Singapore.
