@@ -73,3 +73,13 @@ distributed using [CRAN](https://cran.r-project.org/package=eplusr) (The
 Comprehensive R Archive Network). The third component has been encapsulated
 using Docker containerization and is distributed using [Docker
 Hub](https://hub.docker.com/r/hongyuanjia/eplusr).
+
+### Acknowledgement
+
+This research is supported by the National Research Foundation, Prime Minister’s
+Office, Singapore under its Campus for Research Excellence and Technological
+Enterprise (CREATE) programme. It was funded through a grant to the Berkeley
+Education Alliance for Research in Singapore (BEARS) for the Singapore-Berkeley
+Building Efficiency and Sustainability in the Tropics (SinBerBEST) Program.
+BEARS has been established by the University of California, Berkeley as a center
+for intellectual excellence in research and education in Singapore.
