@@ -1,6 +1,6 @@
 ---
 authors:
-  - shuxu-qin
+  - 3-shuxu-qin
 bio: My research interests include sustainable design and human wellness matter.
 education:
   courses:
