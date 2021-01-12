@@ -31,7 +31,7 @@ objectives, and data informativeness, facilitating future discussions on the
 right level of abstraction when modeling occupancy in BPS.
 """
 featured = false
-publication = "*In Review*"
+publication = "*Accepted in Applied Energy*"
 tags = ["Occupant modeling", "Building performance simulation", "Building simulation", "Bayesian calibration", "Uncertainly analysis"]
 +++
 
