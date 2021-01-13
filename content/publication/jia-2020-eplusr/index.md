@@ -20,7 +20,7 @@ computational environment for building energy modeling to facilitate
 reproducibility research.
 """
 featured = false
-publication = "*In Review*"
+publication = "*Accepted in Energy and Buildings*"
 tags = ["HVAC", "Energy efficiency", "Whole building energy model", "EnergyPlus", "R"]
 url_pdf = "publication/pdf/jia2020eplusr.pdf"
 doi = "https://10.13140/RG.2.2.34326.16966"
