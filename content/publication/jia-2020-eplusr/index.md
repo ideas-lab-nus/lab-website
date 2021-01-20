@@ -1,7 +1,7 @@
 +++
 title = "eplusr: A framework for integrating building energy simulation and data-driven analytics"
 date = 2020-09-06
-authors = ["Hongyuan Jia", "Adrian Chong"]
+authors = ["Hongyuan Jia", "admin"]
 publication_types = ["2"]
 abstract = """
 Building energy simulation (BES) has been widely adopted for the investigation
@@ -20,9 +20,9 @@ computational environment for building energy modeling to facilitate
 reproducibility research.
 """
 featured = false
-publication = "*Accepted in Energy and Buildings*"
+publication = "Energy and Buildings"
 tags = ["HVAC", "Energy efficiency", "Whole building energy model", "EnergyPlus", "R"]
 url_pdf = "publication/pdf/jia2020eplusr.pdf"
-doi = "https://10.13140/RG.2.2.34326.16966"
+doi = "https://10.13140/RG.2.2.34326.16966/1"
 +++
 
