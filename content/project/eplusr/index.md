@@ -65,7 +65,7 @@ propose a framework consisting of the following:
    to facilitate reproducibility research in the energy
    simulation domain.
 
-![Overview of eplusr framework](featured.png)
+{{< figure src="featured.png" width="50%">}}
 
 The first two components have been packaged into a free, open-source R package
 [eplusr](https://github.com/hongyuanjia/eplusr) which is
@@ -73,6 +73,54 @@ distributed using [CRAN](https://cran.r-project.org/package=eplusr) (The
 Comprehensive R Archive Network). The third component has been encapsulated
 using Docker containerization and is distributed using [Docker
 Hub](https://hub.docker.com/r/hongyuanjia/eplusr).
+
+## Get Started with *eplusr*
+
+The source code is hosted on [GitHub](https://github.com/hongyuanjia/eplusr).
+The R package can be easily installed using:
+
+```r
+install.packages("eplusr")
+```
+
+Below shows some feature highlights of the eplusr package:
+
+{{< figure src="view_geometry.gif" caption="View IDF geometry in 3D" width="50%">}}
+
+{{< figure src="autocomplete.gif" caption="Turn RStudio into a model editor via autocompletion" width="50%">}}
+
+{{< figure src="epw.gif" caption="Query and modify weather file" width="50%">}}
+
+{{< figure src="job.gif" caption="Query output via SQL in Tidy format which is much better for data analysis" width="50%">}}
+
+{{< figure src="param.gif" caption="Flexible and extensible parametric simulation interface" width="50%">}}
+
+### Vignettes
+
+Please see these vignettes and articles about {eplusr}
+
+* [Introduction to eplusr](https://hongyuanjia.github.io/eplusr/articles/eplusr.html)
+* [Run simulation and data exploration](https://hongyuanjia.github.io/eplusr/articles/job.html)
+* [Parametric simulations](https://hongyuanjia.github.io/eplusr/articles/param.html)
+* [Update IDF version](https://hongyuanjia.github.io/eplusr/articles/transition.html)
+* [Work with weather files](https://hongyuanjia.github.io/eplusr/articles/epw.html)
+* [Work with Schedule:Compact objects](https://hongyuanjia.github.io/eplusr/articles/schedule.html)
+* [Work with geometries](https://hongyuanjia.github.io/eplusr/articles/geom.html)
+* [Frequently asked questions](https://hongyuanjia.github.io/eplusr/articles/faq.html)
+
+### Slides
+
+* [Slides: Interfacing EnergyPlus using R](https://hongyuanjia.github.io/eplusrIntro/)
+
+### Additional resources
+
+* eplusr manual: https://hongyuanjia.github.io/eplusr/
+* eplusr Docker image: https://github.com/hongyuanjia/eplusr-docker
+* [epwshiftr](https://cran.r-project.org/package=epwshiftr) for creating future
+  EnergyPlus weather files using CMIP6 data
+* [epluspar](https://github.com/hongyuanjia/epluspar) for conducting parametric
+  analysis on EnergyPlus models, including sensitivity analysis, Bayesian
+  calibration and optimization.
 
 ### Acknowledgement
 

@@ -1,5 +1,7 @@
-public/
-.Rproj.user/*
-**/.DS_Store
-.Rhistory
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public/
+resources/
+**/.DS_Store
