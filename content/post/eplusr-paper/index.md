@@ -34,13 +34,21 @@ We have a new paper:
 > <a href="/publication/pdf/jia2020eplusr.pdf"><i class="fas fa-file-pdf"> </i></a>
 > <i class="ai ai-open-access"></i>
 
+Building energy simulation (BES) has been widely adopted for the
+investigation of building environmental and energy performance for different
+design and retrofit alternatives. Data-driven analytics is vital for
+interpreting and analyzing BES results to reveal trends and provide useful
+insights. However, seamless integration between BES and data-driven analytics
+current does not exist. 
+
 This paper presents [eplusr](https://cran.r-project.org/package=eplusr), an
 [R](https://www.r-project.org/) package for conducting data-driven analytics
-with [EnergyPlus](https://energyplus.net/). With a data-centric design
-philosophy, the proposed framework focuses on better and more seamless
-integration between BES and data-driven analytics. It provides structured
-inputs/outputs format that can be easily piped into data analytics workflows.
-It also provides an infrastructure to bring portable and reusable
+with [EnergyPlus](https://energyplus.net/).The R package is cross-platform and
+distributed using CRAN (The Comprehensive R Archive Network). With
+a data-centric design philosophy, the proposed framework focuses on better and
+more seamless integration between BES and data-driven analytics. It provides
+structured inputs/outputs format that can be easily piped into data analytics
+workflows. The R package also provides an infrastructure to bring portable and reusable
 [computational environment](https://hub.docker.com/r/hongyuanjia/eplusr) for
 building energy modeling to facilitate reproducibility research.
 
@@ -52,28 +60,9 @@ building energy modeling to facilitate reproducibility research.
 * Facilitates reproducible simulations through Docker
 * Enables flexible and extensible parametric simulations
 
-## Abstract
-
-The abstract follows.
-
-> Building energy simulation (BES) has been widely adopted for the
-> investigation of building environmental and energy performance for different
-> design and retrofit alternatives. Data-driven analytics is vital for
-> interpreting and analyzing BES results to reveal trends and provide useful
-> insights. However, seamless integration between BES and data-driven analytics
-> current does not exist. This paper presents eplusr, an R package for conducting
-> data-driven analytics with EnergyPlus. The R package is cross-platform and
-> distributed using CRAN (The Comprehensive R Archive Network). With
-> a data-centric design philosophy, the proposed framework focuses on better and
-> more seamless integration between BES and data-driven analytics. It provides
-> structured inputs/outputs format that can be easily piped into data analytics
-> workflows. The R package also provides an infrastructure to bring portable and
-> reusable computational environment for building energy modeling to facilitate
-> reproducibility research.
-
 ## Paper
 
-For more information please see [the paper]({{< ref "publication/jia-2020-eplusr" >}}) and [the project]({{< ref "project/eplusr">}}).
+For more information, see [the full paper]({{< ref "publication/jia-2020-eplusr" >}}) and [the project]({{< ref "project/eplusr">}}).
 
 
 BibTeX citation:
