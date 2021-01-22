@@ -37,7 +37,7 @@ Occupancy is a significant area of interest within the field of building perform
 
 * Metric to evaluate probabilistic predictions against measured building energy use.
 * Proposed metric considers both correctness and informativeness of predictions.
-* Occupancy data reduced prediction errors from 37\% to 24\%.
+* Occupancy data reduced prediction errors from 37% to 24%.
 * Calibrating ASHRAE base schedule fraction substantially reduced prediction errors.
 * Higher spatial resolution of occupancy data might result in poorer predictions.
 
