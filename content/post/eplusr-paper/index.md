@@ -77,3 +77,6 @@ BibTeX citation:
   doi = {10.13140/RG.2.2.34326.16966/1}
 }
 ```
+
+## Acknowledgement
+This research was funded by the Republic of Singapore's National ResearchFoundation through a grant to the Berkeley Education Alliance for Research inSingapore (BEARS) for the Singapore-Berkeley Building Efficiency and Sustainability inthe Tropics (SinBerBEST) Program. BEARS has been established by the University ofCalifornia, Berkeley as a center for intellectual excellence in research and education inSingapore.”
