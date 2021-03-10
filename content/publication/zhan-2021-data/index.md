@@ -1,5 +1,5 @@
 +++
-title = "a requirements and performance evaluation of model predictive control in buildings: A modeling perspective"
+title = "Data requirements and performance evaluation of model predictive control in buildings: A modeling perspective"
 date = 2021-03-05
 authors = ["Sicheng Zhan", "Adrian Chong"]
 publication_types = ["2"]
