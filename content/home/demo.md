@@ -50,6 +50,8 @@ weight = 20  # Order that this section will appear.
 ![](img/ideaslab_nus_logo.jpg)
 
 **IDEAS Lab** is a research group in the [Department of Building](http://www.bdg.nus.edu.sg) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) that engages in the integration building performance simulation with real-time data and machine learning. The group focuses on various aspects of building performance simulation including uncertainty quantification, model calibration, and building data analytics with the aim of creating energy efficient and healthier buildings.
+
+Also, check out our two sibling labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org) and the [Urban Analytics Lab (UAL)](https://ual.sg), with whom we collaborate closely within NUS. . 
 </center>
 
 
