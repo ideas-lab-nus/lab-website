@@ -5,3 +5,6 @@
 public/
 resources/
 **/.DS_Store
+.Rproj.user/shared/notebooks/paths
+*.json
+resources/_gen/assets/scss/sass/main.scss_5605ecb7fa3240a2f23d47aaede4565f.content
