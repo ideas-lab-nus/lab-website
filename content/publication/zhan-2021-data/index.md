@@ -10,6 +10,6 @@ featured = false
 publication = "Renewable and Sustainable Energy Reviews"
 tags = ["Model predictive control", "Control-oriented model", "Data requirements", "Level of detail", "Performance evaluation","Model identification"]
 doi = "10.1016/j.rser.2021.110835"
-
+url_pdf = "publication/pdf/zhan-2021-data.pdf"
 +++
 
