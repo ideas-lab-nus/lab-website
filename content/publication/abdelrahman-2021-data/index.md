@@ -12,4 +12,3 @@ tags = ["Reference mining, Natural language processing, Data science, Built envi
 url_pdf = "publication/pdf/abdelrahman-2021-data.pdf"
 doi = "https://doi.org/10.1016/j.enbuild.2021.110885"
 +++
-
