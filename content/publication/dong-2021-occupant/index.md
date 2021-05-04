@@ -1,6 +1,6 @@
 +++
 title = "Occupant behavior modeling methods for resilient building design, operation and policy at urban scale: A review"
-date = 2021-07-01
+date = 2021-01-01
 authors = ["Bing Dong", "Yapan Liu", "Hannah Fontenot", "Mohamed Ouf", "Mohamed Osman", "Adrian Chong", "Shuxu Qin", "Flora Salim", "Hao Xue", "Da Yan", "Yuan Jin", "Mengjie Han", "Xingxing Zhang", "Elie Azar", "Salvatore Carlucci"]
 publication_types = ["2"]
 abstract = """
