@@ -1,6 +1,6 @@
 ---
 authors:
-- 1-yue-lei
+- yue-lei
 bio: My research interests include building performance modelling and optimization as well as data analytics.
 education:
   courses:
