@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on IDEAS Lab</title>
@@ -6,15 +6,78 @@
     <description>Recent content in Tags on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Electricity demand, Plug loads, Stochastic model, Machine learning, Transferability, Autoencoder (AE), Functional Data Analysis (FDA)</title>
+      <link>/tags/electricity-demand-plug-loads-stochastic-model-machine-learning-transferability-autoencoder-ae-functional-data-analysis-fda/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/electricity-demand-plug-loads-stochastic-model-machine-learning-transferability-autoencoder-ae-functional-data-analysis-fda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control-oriented model</title>
+      <link>/tags/control-oriented-model/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/control-oriented-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data requirements</title>
+      <link>/tags/data-requirements/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/data-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Level of detail</title>
+      <link>/tags/level-of-detail/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/level-of-detail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model identification</title>
+      <link>/tags/model-identification/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/model-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model predictive control</title>
+      <link>/tags/model-predictive-control/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation</title>
+      <link>/tags/performance-evaluation/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/performance-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian calibration</title>
       <link>/tags/bayesian-calibration/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/bayesian-calibration/</guid>
       <description></description>
@@ -23,90 +86,180 @@
     <item>
       <title>Building performance simulation</title>
       <link>/tags/building-performance-simulation/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/building-performance-simulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Building simulation</title>
-      <link>/tags/building-simulation/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/building-simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Energy efficiency</title>
-      <link>/tags/energy-efficiency/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/energy-efficiency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>EnergyPlus</title>
       <link>/tags/energyplus/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/energyplus/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HVAC</title>
-      <link>/tags/hvac/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/hvac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Occupant modeling</title>
       <link>/tags/occupant-modeling/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/occupant-modeling/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Uncertainty analysis</title>
+      <link>/tags/uncertainty-analysis/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/uncertainty-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupant modeling, Building performance simulation, Building simulation, Bayesian calibration, Uncertainty analysis</title>
+      <link>/tags/occupant-modeling-building-performance-simulation-building-simulation-bayesian-calibration-uncertainty-analysis/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/occupant-modeling-building-performance-simulation-building-simulation-bayesian-calibration-uncertainty-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Enegy Simulation</title>
+      <link>/tags/building-enegy-simulation/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/building-enegy-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Uncertainly analysis</title>
-      <link>/tags/uncertainly-analysis/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <title>Software Development</title>
+      <link>/tags/software-development/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/uncertainly-analysis/</guid>
+      <guid>/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy efficiency</title>
+      <link>/tags/energy-efficiency/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/energy-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HVAC</title>
+      <link>/tags/hvac/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/hvac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole building energy model</title>
       <link>/tags/whole-building-energy-model/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
       
       <guid>/tags/whole-building-energy-model/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Air distribution</title>
+      <link>/tags/air-distribution/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/air-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airborne transmission</title>
+      <link>/tags/airborne-transmission/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/airborne-transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building science, Urban scale, Occupant behavior modeling, Human mobility modeling, Cross domain, Spatio-temporal data, Performance evaluation</title>
+      <link>/tags/building-science-urban-scale-occupant-behavior-modeling-human-mobility-modeling-cross-domain-spatio-temporal-data-performance-evaluation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-science-urban-scale-occupant-behavior-modeling-human-mobility-modeling-cross-domain-spatio-temporal-data-performance-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CFD</title>
       <link>/tags/cfd/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
       
       <guid>/tags/cfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ceiling fan</title>
+      <link>/tags/ceiling-fan/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/ceiling-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration</title>
+      <link>/tags/concentration/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/concentration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infection risk</title>
+      <link>/tags/infection-risk/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/infection-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reference mining, Natural language processing, Data science, Built environment, Building energy efficiency, Word embeddings</title>
+      <link>/tags/reference-mining-natural-language-processing-data-science-built-environment-building-energy-efficiency-word-embeddings/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/reference-mining-natural-language-processing-data-science-built-environment-building-energy-efficiency-word-embeddings/</guid>
       <description></description>
     </item>
     
@@ -116,15 +269,6 @@
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0800</pubDate>
       
       <guid>/tags/covid-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Building Enegy Simulation</title>
-      <link>/tags/building-enegy-simulation/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/building-enegy-simulation/</guid>
       <description></description>
     </item>
     
@@ -183,11 +327,47 @@
     </item>
     
     <item>
-      <title>Software Development</title>
-      <link>/tags/software-development/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      <title>Building energy benchmarking</title>
+      <link>/tags/building-energy-benchmarking/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
       
-      <guid>/tags/software-development/</guid>
+      <guid>/tags/building-energy-benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building operation</title>
+      <link>/tags/building-operation/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-operation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy conservation</title>
+      <link>/tags/energy-conservation/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/energy-conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart meter</title>
+      <link>/tags/smart-meter/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/smart-meter/</guid>
       <description></description>
     </item>
     
@@ -246,15 +426,6 @@
     </item>
     
     <item>
-      <title>Uncertainty analysis</title>
-      <link>/tags/uncertainty-analysis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/uncertainty-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Building Energy Model Calibration</title>
       <link>/tags/building-energy-model-calibration/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
@@ -269,6 +440,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
       
       <guid>/tags/building-energy-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building simulation</title>
+      <link>/tags/building-simulation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-simulation/</guid>
       <description></description>
     </item>
     
@@ -336,15 +516,6 @@
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Building cost estimation</title>
       <link>/tags/building-cost-estimation/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
@@ -377,33 +548,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
       
       <guid>/tags/optimization-performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     

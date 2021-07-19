@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on IDEAS Lab</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Authors on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,70 @@
     <item>
       <title>Adrian Chong</title>
       <link>/authors/adrian-chong/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0800</pubDate>
       
       <guid>/authors/adrian-chong/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Cheryl Sze Yin Wong</title>
+      <link>/authors/cheryl-sze-yin-wong/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/cheryl-sze-yin-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Ward</title>
+      <link>/authors/rebecca-ward/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/rebecca-ward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruchi Choudhary</title>
+      <link>/authors/ruchi-choudhary/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/ruchi-choudhary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Savitha Ramasamy</title>
+      <link>/authors/savitha-ramasamy/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/savitha-ramasamy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sicheng Zhan</title>
+      <link>/authors/sicheng-zhan/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/sicheng-zhan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Da Yan</title>
       <link>/authors/da-yan/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0800</pubDate>
       
       <guid>/authors/da-yan/</guid>
       <description></description>
@@ -32,18 +86,216 @@
     <item>
       <title>Godfried Augenbroe</title>
       <link>/authors/godfried-augenbroe/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0800</pubDate>
       
       <guid>/authors/godfried-augenbroe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hongyuan-jia</title>
+      <title>Hongyuan Jia</title>
       <link>/authors/hongyuan-jia/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/hongyuan-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bertrand Lasternas</title>
+      <link>/authors/bertrand-lasternas/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/bertrand-lasternas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bing Dong</title>
+      <link>/authors/bing-dong/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/bing-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clayton Miller</title>
+      <link>/authors/clayton-miller/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/clayton-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elie Azar</title>
+      <link>/authors/elie-azar/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/elie-azar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flora Salim</title>
+      <link>/authors/flora-salim/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/flora-salim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hannah Fontenot</title>
+      <link>/authors/hannah-fontenot/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/hannah-fontenot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao Xue</title>
+      <link>/authors/hao-xue/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/hao-xue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khee Poh Lam</title>
+      <link>/authors/khee-poh-lam/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/khee-poh-lam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kwok Wai Tham</title>
+      <link>/authors/kwok-wai-tham/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/kwok-wai-tham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Xu</title>
+      <link>/authors/lei-xu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/lei-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahmoud M. Abdelrahman</title>
+      <link>/authors/mahmoud-m.-abdelrahman/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/mahmoud-m.-abdelrahman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mengjie Han</title>
+      <link>/authors/mengjie-han/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/mengjie-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamed Osman</title>
+      <link>/authors/mohamed-osman/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/mohamed-osman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamed Ouf</title>
+      <link>/authors/mohamed-ouf/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/mohamed-ouf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvatore Carlucci</title>
+      <link>/authors/salvatore-carlucci/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/salvatore-carlucci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuxu Qin</title>
+      <link>/authors/shuxu-qin/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/shuxu-qin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takamasa Hasama</title>
+      <link>/authors/takamasa-hasama/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/takamasa-hasama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenxin Li</title>
+      <link>/authors/wenxin-li/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/wenxin-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xingxing Zhang</title>
+      <link>/authors/xingxing-zhang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/xingxing-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yapan Liu</title>
+      <link>/authors/yapan-liu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/yapan-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Jin</title>
+      <link>/authors/yuan-jin/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/yuan-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhaoru Liu</title>
+      <link>/authors/zhaoru-liu/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/zhaoru-liu/</guid>
       <description></description>
     </item>
     
@@ -66,15 +318,6 @@
     </item>
     
     <item>
-      <title>Khee Poh Lam</title>
-      <link>/authors/khee-poh-lam/</link>
-      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/khee-poh-lam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Weili Xu</title>
       <link>/authors/weili-xu/</link>
       <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
@@ -89,15 +332,6 @@
       <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
       
       <guid>/authors/zhan-sicheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
@@ -228,15 +462,6 @@
     </item>
     
     <item>
-      <title>Kwok Wai Tham</title>
-      <link>/authors/kwok-wai-tham/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/kwok-wai-tham/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Matteo Pozzi</title>
       <link>/authors/matteo-pozzi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
@@ -309,74 +534,47 @@
     </item>
     
     <item>
-      <title>1-sicheng-zhan</title>
-      <link>/authors/1-sicheng-zhan/</link>
+      <title>long-zheng</title>
+      <link>/authors/long-zheng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/1-sicheng-zhan/</guid>
+      <guid>/authors/long-zheng/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1-yaonan-gu</title>
-      <link>/authors/1-yaonan-gu/</link>
+      <title>siyu-cheng</title>
+      <link>/authors/siyu-cheng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/1-yaonan-gu/</guid>
+      <guid>/authors/siyu-cheng/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1-yue-lei</title>
-      <link>/authors/1-yue-lei/</link>
+      <title>xilei-dai</title>
+      <link>/authors/xilei-dai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/1-yue-lei/</guid>
+      <guid>/authors/xilei-dai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2-mahmoud-abdelrahman</title>
-      <link>/authors/2-mahmoud-abdelrahman/</link>
+      <title>yaonan-gu</title>
+      <link>/authors/yaonan-gu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/2-mahmoud-abdelrahman/</guid>
+      <guid>/authors/yaonan-gu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2-siyu-cheng</title>
-      <link>/authors/2-siyu-cheng/</link>
+      <title>yue-lei</title>
+      <link>/authors/yue-lei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/2-siyu-cheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lei-Xu</title>
-      <link>/authors/lei-xu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lei-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shuxu-qin</title>
-      <link>/authors/shuxu-qin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/shuxu-qin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wenxin-li</title>
-      <link>/authors/wenxin-li/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/wenxin-li/</guid>
+      <guid>/authors/yue-lei/</guid>
       <description></description>
     </item>
     

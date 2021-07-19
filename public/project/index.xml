@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on IDEAS Lab</title>
@@ -21,16 +21,7 @@
     </item>
     
     <item>
-      <title>A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs&#39; performance using building energy simulation</title>
-      <link>/project/sde4/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/project/sde4/</guid>
-      <description>A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs&amp;rsquo; performance using building energy simulation</description>
-    </item>
-    
-    <item>
-      <title>Advanced machine learning based control for the HVAC systems</title>
+      <title>Advanced machine learning based control for HVAC systems</title>
       <link>/project/kajima/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
       
@@ -58,15 +49,6 @@ modeling-related issues and establishing an automated framework.</description>
     </item>
     
     <item>
-      <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
-      <link>/project/eplusr/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/project/eplusr/</guid>
-      <description>A framework for seamless integration between Building Energy Simulation (BES) and data-driven analytics.</description>
-    </item>
-    
-    <item>
       <title>Epwshiftr: an R package for creating future weather files under climate changes for building energy simulation</title>
       <link>/project/epwshiftr/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
@@ -91,6 +73,24 @@ modeling-related issues and establishing an automated framework.</description>
       
       <guid>/project/lcc/</guid>
       <description>Life cycle cost optimization</description>
+    </item>
+    
+    <item>
+      <title>Quantifying the impact of occupancy on ECMs&#39; performance using building energy simulation</title>
+      <link>/project/sde4/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/sde4/</guid>
+      <description>A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs&amp;rsquo; performance using building energy simulation</description>
+    </item>
+    
+    <item>
+      <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
+      <link>/project/eplusr/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/eplusr/</guid>
+      <description>A framework for seamless integration between Building Energy Simulation (BES) and data-driven analytics.</description>
     </item>
     
     <item>

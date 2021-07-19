@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncertainty analysis on IDEAS Lab</title>
@@ -6,10 +6,21 @@
     <description>Recent content in Uncertainty analysis on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/uncertainty-analysis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New paper: Occupancy data at different spatial resolutions: Building energy performance and model calibration</title>
+      <link>/post/chong-2021-occupancy/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/chong-2021-occupancy/</guid>
+      <description>We have a new paper:
+ Adrian Chong, Godfried Augenbroe and Da Yan (2021). Occupancy data at different spatial resolutions: Building energy performance and model calibration. Applied Energy. https://doi.org/10.1016/j.apenergy.2021.116492 
+ Occupancy is a significant area of interest within the field of building performance simulation. Through Bayesian calibration, the present study investigates the impact of the availability of different spatial resolution of occupancy data on the gap between predicted and measured energy use in buildings.</description>
+    </item>
     
     <item>
       <title>Continuous-time Bayesian calibration of energy models using BIM and energy data</title>

@@ -2,23 +2,10 @@
 authors:
   - shuxu-qin
 bio: My research interests include sustainable design and human wellness matter.
-education:
-  courses:
-  - course: MSc in Integrated Sustainable Design
-    institution: National University of Singapore, Singapore
-    year: 2020
 email: ""
-interests:
-  - Community/Urban Energy Planning
-  - Sustainable Planning and Design
-  - Human Wellness Solution and Design
-  - Data Analytics
 name: Shuxu Qin
 weight: 4
-organizations:
-  - name: National University of Singapore
-    url: "https://www.sde.nus.edu.sg/"
-role: Research Apprentice
+role: ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,12 +20,7 @@ social:
     icon_pack: fab
     link: https://github.com/1ChristinaQin
 user_groups:
-  - PhD Students / Research Assistants
+  - Alumni
 ---
-
-Shuxu Qin is a research apprentice at the [Department of Building at the
-National University of Singapore](http://sinberbest.berkeley.edu/). She
-specializes in urban planning, with expertise in development control, planning
-policy and plan-making. She is a LEED AP ND and WELL AP.
 
 

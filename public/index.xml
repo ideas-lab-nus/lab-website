@@ -6,91 +6,1184 @@
     <description>Recent content on IDEAS Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0800</pubDate>
       
-      <guid>/talk/</guid>
-      <description></description>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0800</pubDate>
+      <title>A study on the transferability of computational models of building electricity load patterns across climatic zones</title>
+      <link>/publication/ward-2021-study/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0800</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>/publication/ward-2021-study/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Data requirements and performance evaluation of model predictive control in buildings: A modeling perspective</title>
+      <link>/publication/zhan-2021-data/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/zhan-2021-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper: Occupancy data at different spatial resolutions: Building energy performance and model calibration</title>
+      <link>/post/chong-2021-occupancy/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/chong-2021-occupancy/</guid>
+      <description>
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We have a new paper:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Adrian Chong, Godfried Augenbroe and Da Yan (2021).
+Occupancy data at different spatial resolutions: Building energy performance and model calibration.
+Applied Energy.
+&lt;a href=&#34;https://doi.org/10.1016/j.apenergy.2021.116492&#34;&gt;&lt;i class=&#34;ai ai-doi&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://doi.org/10.1016/j.apenergy.2021.116492&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.apenergy.2021.116492&lt;/a&gt;&lt;/a&gt;
+&lt;a href=&#34;/publication/pdf/chong-2021-occupancy.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt; &lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Occupancy is a significant area of interest within the field of building performance simulation. Through Bayesian calibration, the present study investigates the impact of the availability of different spatial resolution of occupancy data on the gap between predicted and measured energy use in buildings. The study also examines the effect of occupancy data on the quality of the constructed prediction intervals (PIs) using the Coverage Width-based Criterion (CWC) metric. CWC evaluates the PIs based on both their coverage (correctness) and width (informativeness). This investigation takes the form of an actual building case study, with nine months of hourly measured building electricity use, WiFi connection counts as a proxy for occupancy, and actual weather data. In general, the building energy model’s accuracy improves with the occupancy and plug-loads schedule derived from WiFi data. Specifically, the Coefficient of Variation Root Mean Square Error (CV[RMSE]) reduced from 37\% to 24\% with an exponential improvement in the PIs quality compared to the results obtained with ASHRAE 90.1 reference schedules. However, the increase in prediction accuracy shrank to 5\% CV(RMSE) and a comparable CWC upon calibrating the base loads of the reference schedules. Increasing the spatial resolution from building aggregated to floor aggregated occupancy data worsened the CV(RMSE) and CWC, suggesting trade-offs between parameter uncertainty and model bias/inadequacy. These results contribute to our understanding of the interactions between model complexity, simulation objectives, and data informativeness, facilitating future discussions on the right level of abstraction when modeling occupancy&lt;/p&gt;
+
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Metric to evaluate probabilistic predictions against measured building energy use.&lt;/li&gt;
+&lt;li&gt;Proposed metric considers both correctness and informativeness of predictions.&lt;/li&gt;
+&lt;li&gt;Occupancy data reduced prediction errors from 37% to 24%.&lt;/li&gt;
+&lt;li&gt;Calibrating ASHRAE base schedule fraction substantially reduced prediction errors.&lt;/li&gt;
+&lt;li&gt;Higher spatial resolution of occupancy data might result in poorer predictions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;paper&#34;&gt;Paper&lt;/h2&gt;
+
+&lt;p&gt;For more information, see &lt;a href=&#34;/publication/chong-2021-occupancy/&#34; target=&#34;_blank&#34;&gt;the full paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;BibTeX citation:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{chong2021occupancy,
+title = &amp;quot;Occupancy data at different spatial resolutions: Building energy performance and model calibration&amp;quot;,
+author = &amp;quot;Adrian Chong and Godfried Augenbroe and Da Yan&amp;quot;,
+journal = &amp;quot;Applied Energy&amp;quot;,
+volume = &amp;quot;286&amp;quot;,
+pages = &amp;quot;116492&amp;quot;,
+year = &amp;quot;2021&amp;quot;,
+issn = &amp;quot;0306-2619&amp;quot;,
+doi = &amp;quot;https://doi.org/10.1016/j.apenergy.2021.116492&amp;quot;,
+url = &amp;quot;http://www.sciencedirect.com/science/article/pii/S0306261921000532&amp;quot;
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Occupancy data at different spatial resolutions: building energy performance and model calibration</title>
+      <link>/publication/chong-2021-occupancy/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2021-occupancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper: eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
+      <link>/post/eplusr-paper/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/eplusr-paper/</guid>
+      <description>
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We have a new paper:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hongyuan Jia, Adrian Chong (2020). eplusr: A framework for
+integrating building energy simulation and data-driven analytics.
+Energy and Buildings.
+&lt;a href=&#34;https://doi.org/10.13140/RG.2.2.34326.16966/1&#34;&gt;&lt;i class=&#34;ai ai-doi&#34;&gt;&lt;/i&gt;:10.13140/RG.2.2.34326.&lt;sup&gt;16966&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1&lt;/sub&gt;&lt;/a&gt;
+&lt;a href=&#34;/publication/pdf/jia2020eplusr.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt; &lt;/i&gt;&lt;/a&gt;
+&lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Building energy simulation (BES) has been widely adopted for the
+investigation of building environmental and energy performance for different
+design and retrofit alternatives. Data-driven analytics is vital for
+interpreting and analyzing BES results to reveal trends and provide useful
+insights. However, seamless integration between BES and data-driven analytics
+current does not exist.&lt;/p&gt;
+
+&lt;p&gt;This paper presents &lt;a href=&#34;https://cran.r-project.org/package=eplusr&#34; target=&#34;_blank&#34;&gt;eplusr&lt;/a&gt;, an
+&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; package for conducting data-driven analytics
+with &lt;a href=&#34;https://energyplus.net/&#34; target=&#34;_blank&#34;&gt;EnergyPlus&lt;/a&gt;.The R package is cross-platform and
+distributed using CRAN (The Comprehensive R Archive Network). With
+a data-centric design philosophy, the proposed framework focuses on better and
+more seamless integration between BES and data-driven analytics. It provides
+structured inputs/outputs format that can be easily piped into data analytics
+workflows. The R package also provides an infrastructure to bring portable and reusable
+&lt;a href=&#34;https://hub.docker.com/r/hongyuanjia/eplusr&#34; target=&#34;_blank&#34;&gt;computational environment&lt;/a&gt; for
+building energy modeling to facilitate reproducibility research.&lt;/p&gt;
+
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developed an R package that integrates EnergyPlus with data-driven analytics&lt;/li&gt;
+&lt;li&gt;Structured inputs/outputs format that can be easily piped into data&lt;/li&gt;
+&lt;li&gt;analytics workflows&lt;/li&gt;
+&lt;li&gt;Facilitates reproducible simulations through Docker&lt;/li&gt;
+&lt;li&gt;Enables flexible and extensible parametric simulations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;paper&#34;&gt;Paper&lt;/h2&gt;
+
+&lt;p&gt;For more information, see &lt;a href=&#34;/publication/jia-2020-eplusr/&#34; target=&#34;_blank&#34;&gt;the full paper&lt;/a&gt; and &lt;a href=&#34;/project/eplusr/&#34; target=&#34;_blank&#34;&gt;the project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;BibTeX citation:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{jia2020eplusr,
+  title = {eplusr: A framework for integrating building energy simulation and data-driven analytics},
+  author = {Hongyuan Jia Adrian Chong},
+  year = {2020},
+  journal = {*Accepted in Energy and Buildings*},
+  url = {https://CRAN.R-project.org/package=eplusr},
+  doi = {10.13140/RG.2.2.34326.16966/1}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
+
+&lt;p&gt;This research was funded by the Republic of Singapore&amp;rsquo;s National Research
+Foundation through a grant to the Berkeley Education Alliance for Research in
+Singapore (BEARS) for the Singapore-Berkeley Building Efficiency and Sustainability in
+the Tropics (SinBerBEST) Program. BEARS has been established by the University of
+California, Berkeley as a center for intellectual excellence in research and education in
+Singapore.”&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
+      <link>/publication/jia-2020-eplusr/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/jia-2020-eplusr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science for building energy efficiency: A comprehensive text-mining driven review of scientific literature</title>
+      <link>/publication/abdelrahman-2021-data/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/abdelrahman-2021-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of ceiling fans on airborne transmission in an air-conditioned space</title>
+      <link>/publication/li-2021-effects/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/li-2021-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupant behavior modeling methods for resilient building design, operation and policy at urban scale: A review</title>
+      <link>/publication/dong-2021-occupant/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dong-2021-occupant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19: Rethinking building design and operations</title>
+      <link>/project/covid-19/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0800</pubDate>
       
-      <guid>/project/</guid>
-      <description></description>
+      <guid>/project/covid-19/</guid>
+      <description>&lt;p&gt;A NUS project funded by NUS COVID-19 Research Seed Grant&lt;/p&gt;
+
+&lt;p&gt;COVID-19 is mainly transmitted from person to person through droplets and
+bioaerosol generated when an infected symptomatic person coughs or sneezes. It
+is known that the Air Conditioning and Mechanical Ventilation (ACMV) system
+have an impact on the transmission on air borne diseases as it has been proven
+in several previous disease outbreaks. This study aims to understand the
+relative influence of building operations and interventions on the risk of
+droplet and/or aerosol transmission and provide recommendations on how
+buildings can be operated under the &amp;ldquo;New Normal&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Droplet/aerosol transmission inside a dedicated outdoor air system with ceiling
+fans (DOAS-CF) installed in NUS SDE4 will be investigated experimentally and
+numerically. A series of experiments including tracer gas tests and PIV tests
+will be conducted to the transmission behaviour under different operation
+scenarios. Following computational fluid dynamics (CFD) simulations will
+optimize the system operation and further convert it to a larger scale such as
+the whole building. The results will change the way we cool and ventilate
+buildings during an outbreak and provide guidance towards the design of
+buildings that are ecologically resilient.&lt;/p&gt;
+
+&lt;p&gt;The objectives of this research project are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Investigate the effect that controllable environmental parameters (humidity,
+dry-bulb temperature, and air velocity) have on the dispersion of droplets
+and bio-aerosols.&lt;/li&gt;
+&lt;li&gt;Develop and calibrate a computational fluid dynamic model of the dispersion
+for a hybrid system using data assimilation techniques.&lt;/li&gt;
+&lt;li&gt;Using the calibrated model, conduct scenario testing to determine the
+operation and ventilation strategies that could be used to minimise
+bio-aerosol dispersion in the event of an outbreak.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Advanced machine learning based control for HVAC systems</title>
+      <link>/project/kajima/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
       
-      <guid>/post/</guid>
+      <guid>/project/kajima/</guid>
+      <description>&lt;p&gt;An NUS-Kajima project funded by &lt;a href=&#34;https://www.kajima.com.sg/&#34; target=&#34;_blank&#34;&gt;Kajima Singapore&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;SDE4 building at NUS is Singapore’s first net zero energy and WELL gold
+certified building. For the NUS-Kajima collaboration project, we would like to
+take it to the next level by implementing advanced machine learning based
+control for the HVAC systems.&lt;/p&gt;
+
+&lt;p&gt;Reinforcement learning has been successful in applications as diverse as
+autonomous helicopter flight, robot legged locomotion, playing video games,
+marketing strategy selection, etc. It also has the ability to keep perfecting
+its algorithm during online deployment. With such a powerful tool, we are
+exploring a practical approach to integrate it into the real world building. By
+optimal control of the room temperature setpoint and ceiling fan speed at the
+same time, we can not only achieve a more energy efficient operation, but also
+maximize the occupants’ thermal comfort.&lt;/p&gt;
+
+&lt;p&gt;The objectives of this study are to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Develop a multi-objective reinforcement learning control with short-term
+historical data for the hybrid cooling system in SDE4 building to minimize
+the energy consumption while maximize the thermal comfort.&lt;/li&gt;
+&lt;li&gt;Demonstrate the real-world control performance in an open office or a studio
+room at SDE4.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An automated framework for model predictive control</title>
+      <link>/project/mpc/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/mpc/</guid>
+      <description>&lt;p&gt;Model predictive control (MPC) has shown great potential in improving the
+building operation performance and saving energy. However, its actual
+implementation is restricted by the high configuration cost. Control-oriented
+model is the cornerstone of MPC and the most challenging part. Due to the
+paucity of a systematic understanding, it is also hard to estimate the efforts
+required to obtain the model. Therefore, this study aims at improving the
+scalability of MPC by addressing modeling-related issues and establishing an
+automated framework.&lt;/p&gt;
+
+&lt;p&gt;While many past studies demonstrated the usefulness of MPC through simulation
+and experiments, more attention is required for quantifiable relationships
+between data requirement, model performance, and control performance. The data
+used to obtain the model and implement control is essential for the ultimate
+performance. However, data availability and quality vary among different
+buildings. Therefore, an important question for scalability is what data is
+necessary and/or desired. On the other hand, it is unclear how the predictive
+capability of control-oriented models affects the control performance. The
+answer to this question involves a model performance evaluation approach, which
+tests not just the predictive accuracy, and series of experiments to quantify
+the relationships.&lt;/p&gt;
+
+&lt;p&gt;Virtual testbeds with single and multi-zone emulators are implemented to
+address the questions. Different data availability conditions are designed to
+obtain alternative control-oriented models. All alternatives are
+comprehensively evaluated in terms of prediction and control performance.
+Thereby, quantitative relationships between data requirement, model
+performance, and control performance are established. The virtual experiments
+are partially duplicated in an actual testbed for verification. Subsequently,
+a MPC framework is proposed to automatically configure and evaluate the models
+based on data availabilities and control purposes. The framework is showcased
+in actual buildings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building lifecycle automatic data segmentation using natural language processing</title>
+      <link>/project/data-segment/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/data-segment/</guid>
+      <description>&lt;p&gt;We use the state-of-the-art Natural Language Processing (NLP) methods to extract
+useful data from over 20,000 research articles. This data is then automatically
+clustered and segmented. This process helps identifying what data requirements
+for different building stakeholders during different lifecycle phases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Epwshiftr: an R package for creating future weather files under climate changes for building energy simulation</title>
+      <link>/project/epwshiftr/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/epwshiftr/</guid>
+      <description>
+
+&lt;p&gt;A free, open-source R package called &amp;lsquo;epwshiftr&amp;rsquo; for adapting EnergyPlus
+Weather (EPW) files to incorporate climate change predictions using the
+morphing method. The focus of this package is to automatically process big
+amounts of climate change model data from the latest CMIP6 GCMs and create
+future EPW files for world-wide locations in a user-friendly and flexible way.
+It is capable of processing multiple GCM outputs at various spatial and
+temporal resolutions. The package is designed into a modularity style. Each
+module stores data in a standard data format, which allows to explore
+a considerably broad pool of ready-to-use methods available in R for customized
+statistical analysis. Most computational-intensive processes have been designed
+to run in parallel for speed-up.&lt;/p&gt;
+
+&lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
+
+&lt;p&gt;This research is supported by the National Research Foundation, Prime Minister’s
+Office, Singapore under its Campus for Research Excellence and Technological
+Enterprise (CREATE) programme. It was funded through a grant to the Berkeley
+Education Alliance for Research in Singapore (BEARS) for the Singapore-Berkeley
+Building Efficiency and Sustainability in the Tropics (SinBerBEST) Program.
+BEARS has been established by the University of California, Berkeley as a center
+for intellectual excellence in research and education in Singapore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impacts of climate change on building energy systems</title>
+      <link>/project/resilience/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/resilience/</guid>
+      <description>
+
+&lt;p&gt;An ongoing research investigating the impact of climate changes on building
+energy systems.&lt;/p&gt;
+
+&lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
+
+&lt;p&gt;This research is supported by the National Research Foundation, Prime Minister’s
+Office, Singapore under its Campus for Research Excellence and Technological
+Enterprise (CREATE) programme. It was funded through a grant to the Berkeley
+Education Alliance for Research in Singapore (BEARS) for the Singapore-Berkeley
+Building Efficiency and Sustainability in the Tropics (SinBerBEST) Program.
+BEARS has been established by the University of California, Berkeley as a center
+for intellectual excellence in research and education in Singapore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Life cycle cost optimization</title>
+      <link>/project/lcc/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/lcc/</guid>
+      <description>&lt;p&gt;Life-cycle cost analyses (LCCA) is usually coupled with whole building energy
+optimization to generate the cost-optimal design with good energy efficiency.
+Comparing with the isolated building system optimization, a combination of
+passive and active strategies is generally recognized that can result in a lower
+life-cycle cost (LCC) with better energy performance in the literature. With the
+passive design parameters being optimized, the heating and cooling load of the
+building could be decreased, leading to a reduction in the size of the HVAC
+system. for integrated building design. However, in the current cost-optimal
+decision-making framework, there is no difference in the costing process whether
+it is performed on the integrated building system or the single system energy
+optimization. Although the dynamic energy simulation can well demonstrate the
+energy benefit gained from the integrated design, the cost-benefit usually be
+highly underestimated due to the little considering of the effect that load
+reductions have on the capital and running costs of the HVAC system.&lt;/p&gt;
+
+&lt;p&gt;Against this background, this research proposes a holistic LCC optimization
+approach for the integrated building design, which concerns the cost integration
+between passive design and HVAC costs and the tradeoff between initial
+investment for ECMs and long-term benefits. Three LCC optimization methods are
+performed for the case study and their impact on Pareto front solutions’ energy
+and cost performance is compared in this study. This research can contribute to
+a better understanding and interpretation of the cost-effectiveness in energy
+conservation, which is the basis for successful design decisions and policy
+implementation.&lt;/p&gt;
+
+&lt;p&gt;To improve energy efficiency, evaluating the energy savings potential of energy
+conservation measures (ECMs) is a critical task. During new buildings design or
+building retrofits, occupancy and plug-loads schedules can significantly impact
+building energy use and is a leading factor in uncertainty when determining the
+effectiveness of ECMs and operation strategies. Current simulation-based
+assessment methods simplify the occupancy related schedules by using a standard
+or representative set of static and homogeneous assumptions. The simplification
+contributes to significant gaps between the simulated and measured actual energy
+performance of buildings.&lt;/p&gt;
+
+&lt;p&gt;This study presents a framework for identifying and quantifying the impact of
+occupancy-related schedules on ECMs’ performance using building energy
+simulation. An institutional building located in Singapore is used for a case
+study. Two spatial resolution and five temporal resolution are combined to
+establish different base models for energy simulation, representing different
+accuracy levels of occupancy-related schedules. Then, a simulation workflow is
+performed for each ECM to determine its energy savings under different levels of
+input schedules. Finally, the ECM decision is determined based on the simulated
+energy performance and compared among different base models. This research can
+contribute to our understanding of the interactions between model complexity and
+energy efficiency design, facilitating future discussions on the right level of
+abstraction when modeling occupancy in building performance simulation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying the impact of occupancy on ECMs&#39; performance using building energy simulation</title>
+      <link>/project/sde4/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/sde4/</guid>
+      <description>&lt;p&gt;To improve energy efficiency, evaluating the energy savings potential of energy
+conservation measures (ECMs) is a critical task. During new buildings design or
+building retrofits, occupancy and plug-loads schedules can significantly impact
+building energy use and is a leading factor in uncertainty when determining the
+effectiveness of ECMs and operation strategies. Current simulation-based
+assessment methods simplify the occupancy related schedules by using a standard
+or representative set of static and homogeneous assumptions. The simplification
+contributes to significant gaps between the simulated and measured actual energy
+performance of buildings.&lt;/p&gt;
+
+&lt;p&gt;This study presents a framework for identifying and quantifying the impact of
+occupancy-related schedules on ECMs’ performance using building energy
+simulation. An institutional building located in Singapore is used for a case
+study. Two spatial resolution and five temporal resolution are combined to
+establish different base models for energy simulation, representing different
+accuracy levels of occupancy-related schedules. Then, a simulation workflow is
+performed for each ECM to determine its energy savings under different levels of
+input schedules. Finally, the ECM decision is determined based on the simulated
+energy performance and compared among different base models. This research can
+contribute to our understanding of the interactions between model complexity and
+energy efficiency design, facilitating future discussions on the right level of
+abstraction when modeling occupancy in building performance simulation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
+      <link>/project/eplusr/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/eplusr/</guid>
+      <description>
+
+&lt;p&gt;Building energy simulation (BES) offers an alternative approach that encourages
+customized, integrated design solutions, and the development of BES tools has
+been pronounced over the decades. The core tools are the whole-building
+energy simulation programs that provide users with key building performance
+indicators such as energy use and demand, temperature, humidity, and costs.
+However, BES, with an iterative nature inside, can produce a large amount of
+data. The volumes of the data have overwhelmed traditional data analysis
+methods such as spreadsheets and ad-hoc queries with a large number of factors
+to be considered. Solutions in most existing software and applications have
+limited post-processing capacities on BES results. They are not flexible enough
+to enable a clear understanding and control of how the data is being
+transformed. There is a need to improve the efficacy and integration between
+data-driven analytics and BES, and efforts should be made to develop integrated
+tools that are capable of leveraging both methods.&lt;/p&gt;
+
+&lt;p&gt;As BES becomes more integral to many aspects of architecture design and
+decision-making processes, computational reproducibility has become
+increasingly important to researchers, designers and practitioners. Lack of
+credibility in BES results due to a lack of reproducibility is widely
+considered a problem by the energy modeling community. Issues in simulation
+reproducibility are mainly caused by the absence of (1) an integrated workflow
+between BES and data-driven analytics and (2) a portable and reusable
+computational environment encapsulating essential software and applications to
+perform it.&lt;/p&gt;
+
+&lt;p&gt;To address these issues, this paper introduces a new framework for integrating
+BES and data-driven analytics. The framework is different from existing ones
+because of its data-centric design philosophy. The objectives are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;to provide better and more seamless integration between BES engine EnergyPlus
+and R-programming data-driven analytics environment through a parametric
+simulation prototype with structured inputs and outputs format.&lt;/li&gt;
+&lt;li&gt;to build infrastructures for portable and reusable BES computational
+environment to facilitate reproducibility research in building energy
+domain.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To achieve seamless integration between BES and data-driven analytics, we
+propose a framework consisting of the following:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;I/O processors for structuring BES inputs and outputs for seamless
+integration with data analytics workflow.&lt;/li&gt;
+&lt;li&gt;A parametric prototype for conducting flexible and extensible parametric
+simulations.&lt;/li&gt;
+&lt;li&gt;A computational environment that is based on Docker containerization
+to facilitate reproducibility research in the energy
+simulation domain.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured.png&#34; width=&#34;50%&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The first two components have been packaged into a free, open-source R package
+&lt;a href=&#34;https://github.com/hongyuanjia/eplusr&#34; target=&#34;_blank&#34;&gt;eplusr&lt;/a&gt; which is
+distributed using &lt;a href=&#34;https://cran.r-project.org/package=eplusr&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt; (The
+Comprehensive R Archive Network). The third component has been encapsulated
+using Docker containerization and is distributed using &lt;a href=&#34;https://hub.docker.com/r/hongyuanjia/eplusr&#34; target=&#34;_blank&#34;&gt;Docker
+Hub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;get-started-with-eplusr&#34;&gt;Get Started with &lt;em&gt;eplusr&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;The source code is hosted on &lt;a href=&#34;https://github.com/hongyuanjia/eplusr&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.
+The R package can be easily installed using:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install.packages(&amp;quot;eplusr&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Below shows some feature highlights of the eplusr package:&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;view_geometry.gif&#34; alt=&#34;View IDF geometry in 3D&#34; width=&#34;50%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    View IDF geometry in 3D
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;autocomplete.gif&#34; alt=&#34;Turn RStudio into a model editor via autocompletion&#34; width=&#34;50%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Turn RStudio into a model editor via autocompletion
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;epw.gif&#34; alt=&#34;Query and modify weather file&#34; width=&#34;50%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Query and modify weather file
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;job.gif&#34; alt=&#34;Query output via SQL in Tidy format which is much better for data analysis&#34; width=&#34;50%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Query output via SQL in Tidy format which is much better for data analysis
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;param.gif&#34; alt=&#34;Flexible and extensible parametric simulation interface&#34; width=&#34;50%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Flexible and extensible parametric simulation interface
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;vignettes&#34;&gt;Vignettes&lt;/h3&gt;
+
+&lt;p&gt;Please see these vignettes and articles about {eplusr}&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hongyuanjia.github.io/eplusr/articles/eplusr.html&#34; target=&#34;_blank&#34;&gt;Introduction to eplusr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hongyuanjia.github.io/eplusr/articles/job.html&#34; target=&#34;_blank&#34;&gt;Run simulation and data exploration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hongyuanjia.github.io/eplusr/articles/param.html&#34; target=&#34;_blank&#34;&gt;Parametric simulations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hongyuanjia.github.io/eplusr/articles/transition.html&#34; target=&#34;_blank&#34;&gt;Update IDF version&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hongyuanjia.github.io/eplusr/articles/epw.html&#34; target=&#34;_blank&#34;&gt;Work with weather files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hongyuanjia.github.io/eplusr/articles/schedule.html&#34; target=&#34;_blank&#34;&gt;Work with Schedule:Compact objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hongyuanjia.github.io/eplusr/articles/geom.html&#34; target=&#34;_blank&#34;&gt;Work with geometries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hongyuanjia.github.io/eplusr/articles/faq.html&#34; target=&#34;_blank&#34;&gt;Frequently asked questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;slides&#34;&gt;Slides&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hongyuanjia.github.io/eplusrIntro/&#34; target=&#34;_blank&#34;&gt;Slides: Interfacing EnergyPlus using R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;additional-resources&#34;&gt;Additional resources&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;eplusr manual: &lt;a href=&#34;https://hongyuanjia.github.io/eplusr/&#34; target=&#34;_blank&#34;&gt;https://hongyuanjia.github.io/eplusr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;eplusr Docker image: &lt;a href=&#34;https://github.com/hongyuanjia/eplusr-docker&#34; target=&#34;_blank&#34;&gt;https://github.com/hongyuanjia/eplusr-docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/package=epwshiftr&#34; target=&#34;_blank&#34;&gt;epwshiftr&lt;/a&gt; for creating future
+EnergyPlus weather files using CMIP6 data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hongyuanjia/epluspar&#34; target=&#34;_blank&#34;&gt;epluspar&lt;/a&gt; for conducting parametric
+analysis on EnergyPlus models, including sensitivity analysis, Bayesian
+calibration and optimization.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
+
+&lt;p&gt;This research is supported by the National Research Foundation, Prime Minister’s
+Office, Singapore under its Campus for Research Excellence and Technological
+Enterprise (CREATE) programme. It was funded through a grant to the Berkeley
+Education Alliance for Research in Singapore (BEARS) for the Singapore-Berkeley
+Building Efficiency and Sustainability in the Tropics (SinBerBEST) Program.
+BEARS has been established by the University of California, Berkeley as a center
+for intellectual excellence in research and education in Singapore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building categorization revisited: A clustering-based approach to using smart meter data for building energy benchmarking</title>
+      <link>/publication/zhan-2020-building/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/zhan-2020-building/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Overview</title>
-      <link>/tutorial/</link>
+      <title>A framework for the continuous Bayesian calibration of building energy models</title>
+      <link>/publication/chong-2019-continuous/</link>
+      <pubDate>Sat, 07 Sep 2019 17:47:28 +0200</pubDate>
+      
+      <guid>/publication/chong-2019-continuous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new BIM to BEM framework: The development and verification of an open-source gbXML to EnergyPlus translator for supporting building life cycle performance analysis</title>
+      <link>/publication/xu-2019-gbeplus/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/xu-2019-gbeplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A robust unsupervised framework for high-resolution building energy consumption profiling</title>
+      <link>/publication/zhan-2019-robust/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/zhan-2019-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous-time Bayesian calibration of energy models using BIM and energy data</title>
+      <link>/publication/chong-2019177/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2019177/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole building energy model for HVAC optimal control: A practical framework based on deep reinforcement learning</title>
+      <link>/publication/zhang-2019472/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/zhang-2019472/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tutorial/</guid>
-      <description>&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Online courses&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The parent folder may be renamed, for example, to &lt;code&gt;docs&lt;/code&gt; for project documentation or &lt;code&gt;course&lt;/code&gt; for creating an online course.&lt;/p&gt;
-&lt;p&gt;To disable this feature, either delete the parent folder, or set &lt;code&gt;draft = true&lt;/code&gt; in the front matter of all its pages.&lt;/p&gt;
-&lt;p&gt;After renaming or deleting the parent folder, you may wish to update any &lt;code&gt;[[menu.main]]&lt;/code&gt; menu links to it in the &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+      <guid>/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0800</pubDate>
+      <title>Generating certified energy models in Singapore through an M&amp;V framework.</title>
+      <link>/project/mv/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <guid>/project/mv/</guid>
+      <description>&lt;p&gt;An NUS project in collaboration with &lt;a href=&#34;https://arch.gatech.edu/people/godfried-l-augenbroe&#34; target=&#34;_blank&#34;&gt;Professor Godfried L. Augenbroe (Georgia
+Institute of Technology)&lt;/a&gt;,
+funded by NUS Start-up Grant.&lt;/p&gt;
+
+&lt;p&gt;In 2009, the Building and Construction Authority (BCA) in Singapore set an
+ambitious plan to have at least 80% of the buildings in Singapore be Green Mark
+certified by 2030. With measures in place to meet this 80% target, the number
+of Green Mark certified buildings has grown significantly from 17 during the
+launch of the BCA Green Mark scheme in 2005 to more than 2100 in 2014. With the
+exponential increase in the number of Green Mark certified buildings, there is
+an urgent need for the verification of their actual performance. The need to
+&amp;ldquo;validate performance, raise and build awareness and capability&amp;rdquo; has also been
+identified as one of the key initiatives of the S\$52 Million Green Buildings
+Innovation Cluster (GBIC) Fund allocated by the Singapore National Research
+Foundation (NRF), in the most recent third green building masterplan released
+by BCA. Currently, the best practices for M&amp;amp;V are documented in several
+guidelines, including the International Performance Measurement and
+Verification Protocol (IPMVP), ASHRAE Guideline 14 and M&amp;amp;V Guidelines prepared
+for the U.S. Department of Energy (DOE) Federal Energy Management Program
+(FEMP). Most of these efforts are driven by the need to use a BEM to predict
+the savings of different Energy Conservation Measures (ECM). The benefits of
+having validated BEMs of the building stock go however beyond this, as is
+becoming clear in recent resilient community and energy microgrid studies etc.
+This research targets the M&amp;amp;V protocols to arrive at validated BEM&amp;rsquo;s for this
+multitude of future uses.&lt;/p&gt;
+
+&lt;p&gt;The finds from this research could facilitate the creation of a web-platform
+for data sharing, automated sensor to BEM mapping, automated calibration,
+guided M&amp;amp;V and advanced retrofit analysis to support the concept of life-cycle
+building energy modelling (BEM).&lt;/p&gt;
+
+&lt;p&gt;The objectives of this research project are:
+1. Produce a framework for M&amp;amp;V laying guidelines with regards to data
+   resolution and model fidelity.
+2. Be one of the few that addresses the important problem of
+   non-identifiability that is typically neglected in BEM calibration studies.
+3. Provide insights into how the level of resolution of sensor data might
+   influence the level of confidence in the model.
+4. Demonstrate the advantages and disadvantages of using a low fidelity model
+   for calibration and how it compares with a high-fidelity model.
+5. Come up with a cost-benefit analysis of different methods to generate
+   certified building energy models.&lt;/p&gt;
+
+&lt;p&gt;The outcomes will be crucially important for scaling up to the Singapore building stock.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Authors</title>
-      <link>/author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>A Deep Reinforcement Learning Approach to Using Whole Building Energy Model For HVAC Optimal Control</title>
+      <link>/publication/zhang-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
       
-      <guid>/author/</guid>
+      <guid>/publication/zhang-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green and cool roofs’ urban heat island mitigation potential in tropical climate</title>
+      <link>/publication/yang-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/yang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines for the Bayesian calibration of building energy models</title>
+      <link>/publication/chong-2018527/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2018527/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of MCMC algorithms for the Bayesian calibration of building energy models</title>
+      <link>/publication/chong-2017-comparison/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2017-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian calibration of building energy models with large datasets</title>
+      <link>/publication/chong-2017343/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2017343/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy utilizability concept as a retrofitting solution selection criterion for buildings</title>
+      <link>/publication/yang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/yang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving evolutionary algorithm performance for integer type multi-objective building system design optimization</title>
+      <link>/publication/xu-2016714/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/xu-2016714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imputation of missing values in building sensor data</title>
+      <link>/publication/chong-2016-missing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2016-missing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective optimization of building envelope, lighting and HVAC system designs</title>
+      <link>/publication/xu-2016-multi/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/xu-2016-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty analysis and parameter estimation of HVAC systems in building energy models</title>
+      <link>/publication/chong-2015-hvac/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2015-hvac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty analysis in building energy simulation: A practical approach</title>
+      <link>/publication/chong-2015-practical/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-2015-practical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the envelope performance of commercial office buildings in Singapore</title>
+      <link>/publication/chong-201366/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/chong-201366/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation of misting fans in hot and humid climate</title>
+      <link>/publication/wong-20102666/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/wong-20102666/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>/slides/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/slides/</guid>
-      <description></description>
+      <guid>/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

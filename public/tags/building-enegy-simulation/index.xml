@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Building Enegy Simulation on IDEAS Lab</title>
@@ -6,36 +6,29 @@
     <description>Recent content in Building Enegy Simulation on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/building-enegy-simulation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs&#39; performance using building energy simulation</title>
-      <link>/project/sde4/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      <title>New paper: eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
+      <link>/post/eplusr-paper/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/sde4/</guid>
-      <description>A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs&amp;rsquo; performance using building energy simulation</description>
+      <guid>/post/eplusr-paper/</guid>
+      <description>We have a new paper:
+ Hongyuan Jia, Adrian Chong (2020). eplusr: A framework for integrating building energy simulation and data-driven analytics. Energy and Buildings. :10.13140/RG.2.2.34326.16966&amp;frasl;1  
+ Building energy simulation (BES) has been widely adopted for the investigation of building environmental and energy performance for different design and retrofit alternatives. Data-driven analytics is vital for interpreting and analyzing BES results to reveal trends and provide useful insights.</description>
     </item>
     
     <item>
-      <title>Advanced machine learning based control for the HVAC systems</title>
+      <title>Advanced machine learning based control for HVAC systems</title>
       <link>/project/kajima/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
       
       <guid>/project/kajima/</guid>
       <description>Advanced machine learning based control for the HVAC systems</description>
-    </item>
-    
-    <item>
-      <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
-      <link>/project/eplusr/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/project/eplusr/</guid>
-      <description>A framework for seamless integration between Building Energy Simulation (BES) and data-driven analytics.</description>
     </item>
     
     <item>
@@ -63,6 +56,24 @@
       
       <guid>/project/lcc/</guid>
       <description>Life cycle cost optimization</description>
+    </item>
+    
+    <item>
+      <title>Quantifying the impact of occupancy on ECMs&#39; performance using building energy simulation</title>
+      <link>/project/sde4/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/sde4/</guid>
+      <description>A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs&amp;rsquo; performance using building energy simulation</description>
+    </item>
+    
+    <item>
+      <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
+      <link>/project/eplusr/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/project/eplusr/</guid>
+      <description>A framework for seamless integration between Building Energy Simulation (BES) and data-driven analytics.</description>
     </item>
     
   </channel>

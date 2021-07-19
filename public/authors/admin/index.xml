@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on IDEAS Lab</title>
@@ -6,27 +6,29 @@
     <description>Recent content in admin on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>New paper: Occupancy data at different spatial resolutions: Building energy performance and model calibration</title>
+      <link>/post/chong-2021-occupancy/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
+      <guid>/post/chong-2021-occupancy/</guid>
+      <description>We have a new paper:
+ Adrian Chong, Godfried Augenbroe and Da Yan (2021). Occupancy data at different spatial resolutions: Building energy performance and model calibration. Applied Energy. https://doi.org/10.1016/j.apenergy.2021.116492 
+ Occupancy is a significant area of interest within the field of building performance simulation. Through Bayesian calibration, the present study investigates the impact of the availability of different spatial resolution of occupancy data on the gap between predicted and measured energy use in buildings.</description>
     </item>
     
     <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
+      <link>/publication/jia-2020-eplusr/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>/post/getting-started/</guid>
-      <description>Create a beautifully simple website in under 10 minutes.</description>
+      <guid>/publication/jia-2020-eplusr/</guid>
+      <description></description>
     </item>
     
     <item>
