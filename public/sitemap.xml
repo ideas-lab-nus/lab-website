@@ -453,12 +453,6 @@
   </url>
   
   <url>
-    <loc>/authors/wenxin-li/</loc>
-    <lastmod>2021-01-01T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/xingxing-zhang/</loc>
     <lastmod>2021-01-01T00:00:00+08:00</lastmod>
     <priority>0</priority>
@@ -472,6 +466,12 @@
   
   <url>
     <loc>/authors/yuan-jin/</loc>
+    <lastmod>2021-01-01T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/wenxin-li/</loc>
     <lastmod>2021-01-01T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1050,6 +1050,10 @@
   </url>
   
   <url>
+    <loc>/author/jintong-han/</loc>
+  </url>
+  
+  <url>
     <loc>/author/long-zheng/</loc>
   </url>
   
@@ -1086,6 +1090,11 @@
   
   <url>
     <loc>/slides/example/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jintong-han/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

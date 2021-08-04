@@ -17,7 +17,6 @@ interests:
 name: Adrian Chong
 organizations:
 - name: National University of Singapore
-  url: "https://blog.nus.edu.sg/adrianchong/about/"
 role: Assistant Professor
 social:
 # for more icons look at the following links
@@ -43,6 +42,6 @@ user_groups:
 - Principal Investigator
 ---
 
-Adrian Chong is an Assistant Professor in the [Department of Building](http://www.bdg.nus.edu.sg) at the [National University of Singapore (NUS)](http://www.nus.edu.sg). He specializes in building performance modelling and simulation, with expertise in uncertainty quantification and building data analytics. He leads the Integrated Data, Energy Analysis + Simulation (IDEAS) research group, which engages in the interaction between building performance simulation, real-time data and machine learning.
+Adrian Chong is an Assistant Professor in the [Department of the Built Environment](https://www.sde.nus.edu.sg/bdg/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg). He specializes in building performance modelling and simulation, with expertise in uncertainty quantification and building data analytics. He leads the Integrated Data, Energy Analysis + Simulation (IDEAS) research group, which engages in the interaction between building performance simulation, real-time data and machine learning.
 
 
