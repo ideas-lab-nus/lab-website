@@ -32,6 +32,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zeynep-duygu-tekler/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.sg/citations?user=VYSfvtcAAAAJ&hl=en&oi=ao
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Zeynep-Tekler

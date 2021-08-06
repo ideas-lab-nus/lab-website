@@ -28,6 +28,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adrianchong
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.sg/citations?hl=en&user=Xm3qR2QAAAAJ
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Adrian_Chong5

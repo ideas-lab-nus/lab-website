@@ -22,12 +22,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:xileidai@tju.edu.cn'  ## will update once I have NUS mail
-#- icon: blogger
-#  icon_pack: fab
-#  link: https://hongyuanjia.me/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/xilei-dai-4b6b701b8/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.sg/citations?user=Gt-gHncAAAAJ&hl=en&oi=ao
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Dai-Xilei
