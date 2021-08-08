@@ -8,7 +8,7 @@ education:
   - course: PhD in Engineering Product Development
     institution: Singapore University of Technology and Design
     year: 2021
-email: "duygutekler.zeynep@gmail.com"
+email: "zdtekler@nus.edu.sg"
 interests:
   - IoT Applications
   - Occupancy Detection
@@ -25,7 +25,7 @@ social:
 # https://fortawesome.github.io/Font-Awesome/icons/
 - icon: envelope
   icon_pack: fas
-  link: duygutekler.zeynep@gmail.com
+  link: zdtekler@nus.edu.sg
 - icon: home
   icon_pack: fas
   link: https://zeynepduygutekler.github.io/

@@ -45,6 +45,6 @@ user_groups:
 - Principal Investigator
 ---
 
-Adrian Chong is an Assistant Professor in the [Department of the Built Environment](https://www.sde.nus.edu.sg/bdg/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg). He specializes in building performance modelling and simulation, with expertise in uncertainty quantification and building data analytics. He leads the Integrated Data, Energy Analysis + Simulation (IDEAS) research group, which engages in the interaction between building performance simulation, real-time data and machine learning.
+Dr. Adrian Chong is an Assistant Professor in the [Department of the Built Environment](https://www.sde.nus.edu.sg/bdg/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interest is in building energy modeling and simulation, focusing on model calibration and uncertainty quantification. At NUS, he leads the Integrated Data, Energy Analysis + Simulation (IDEAS) lab, a multidisciplinary group researching the interaction between building performance simulation, measured data, and machine learning. Adrian is also the subject editor (validation, calibration, and uncertainty) for the journal [Building Simulation](https://www.springer.com/journal/12273) and an NUS principal investigator at the SinBerBEST program Theme E - Cyber-Physical Testbed (https://sinberbest.berkeley.edu/research/theme-e-cyber-physical-testbed).
 
 
