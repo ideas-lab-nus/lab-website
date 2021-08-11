@@ -1074,6 +1074,10 @@
   </url>
   
   <url>
+    <loc>/author/yuzhen-peng/</loc>
+  </url>
+  
+  <url>
     <loc>/author/zeynep-tekler/</loc>
   </url>
   
@@ -1123,6 +1127,11 @@
   
   <url>
     <loc>/authors/yue-lei/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yuzheng-peng/</loc>
     <priority>0</priority>
   </url>
   
