@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>/author/mingya-zhu/</loc>
+  </url>
+  
+  <url>
     <loc>/author/xilei-dai/</loc>
   </url>
   
@@ -1111,6 +1115,11 @@
   </url>
   
   <url>
+    <loc>/authors/mingya-zhu/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/siyu-cheng/</loc>
     <priority>0</priority>
   </url>
@@ -1131,7 +1140,7 @@
   </url>
   
   <url>
-    <loc>/authors/yuzheng-peng/</loc>
+    <loc>/authors/yuzhen-peng/</loc>
     <priority>0</priority>
   </url>
   
