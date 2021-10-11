@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: An R package for creating future weather files under climate changes for building energy simulation
 tags:
-- Building Enegy Simulation
+- Building Performance Simulation
 - Climate Change
 - Software Development
 - EnergyPlus

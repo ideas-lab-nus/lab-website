@@ -7,7 +7,7 @@ image:
 slides: example-slides
 summary: A framework for seamless integration between Building Energy Simulation (BES) and data-driven analytics.
 tags:
-- Building Enegy Simulation
+- Building Performance Simulation
 - Software Development
 - EnergyPlus
 - R

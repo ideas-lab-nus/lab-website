@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Life cycle cost optimization
 tags:
-- Building Enegy Simulation
+- Building Performance Simulation
 title: "Life cycle cost optimization"
 ---
 

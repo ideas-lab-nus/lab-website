@@ -26,33 +26,28 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Building Enegy Simulation"
-    tag = "Building Enegy Simulation"
-
+    name = "Building Performance Simulation"
+    tag = "Building Performance Simulation"
+    
   [[content.filter_button]]
-    name = "COVID-19"
-    tag = "COVID-19"
-
+    name = "Building controls"
+    tag = "Building controls"
+    
   [[content.filter_button]]
     name = "Climate Change"
     tag = "Climate Change"
+    
+  [[content.filter_button]]
+    name = "Model Calibration"
+    tag = "Model Calibration" 
 
   [[content.filter_button]]
     name = "Software Development"
     tag = "Software Development"
-
-
-  [[content.filter_button]]
-    name = "Building Energy Model Calibration"
-    tag = "Building Energy Model Calibration"
-
-  [[content.filter_button]]
-    name = "Natural Language Processing"
-    tag = "Natural Language Processing"
-
+    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List

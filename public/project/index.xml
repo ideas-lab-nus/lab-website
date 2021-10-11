@@ -6,18 +6,28 @@
     <description>Recent content in Projects on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>COVID-19: Rethinking building design and operations</title>
-      <link>/project/covid-19/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0800</pubDate>
+      <title>A Total Building Performance Approach to Real-time Occupant Centric Sensing and Control for Mixed Mode Ventilation in the Tropics</title>
+      <link>/project/cot_mixed_mode/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0800</pubDate>
       
-      <guid>/project/covid-19/</guid>
-      <description>Experiments and CFD studies for droplet and bioaerosol transmission inside building. A project funded by NUS COVID-19 Research Seed Grant.</description>
+      <guid>/project/cot_mixed_mode/</guid>
+      <description>A research project with a total project value of S$3.75 million funded by the National Research Foundation Singapore under its Cities of Tomorrow R&amp;amp;D Programme, and administered by the Building Construction Authority.</description>
+    </item>
+    
+    <item>
+      <title>An open dataset for the calibration of building energy models</title>
+      <link>/project/sbb_testbed/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/project/sbb_testbed/</guid>
+      <description>Building energy modeling has become more widely used for building performance assessment and building regulations compliance. The energy model of the SinBerBEST Cyber Physical Testbed provides a straightforward “virtual testbed” platform for evaluating the performance, efficiency and effectiveness of technological innovations.
+However, before using for technological assessments, the testbed model itself should be calibrated using in-situ experiments from various operation conditions to make sure it follows reasonably the real thermal and energy performance of the testbed.</description>
     </item>
     
     <item>
@@ -40,15 +50,6 @@ modeling-related issues and establishing an automated framework.</description>
     </item>
     
     <item>
-      <title>Building lifecycle automatic data segmentation using natural language processing</title>
-      <link>/project/data-segment/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/project/data-segment/</guid>
-      <description>Building lifecycle automatic data segmentation using natural language processing</description>
-    </item>
-    
-    <item>
       <title>Epwshiftr: an R package for creating future weather files under climate changes for building energy simulation</title>
       <link>/project/epwshiftr/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
@@ -58,30 +59,12 @@ modeling-related issues and establishing an automated framework.</description>
     </item>
     
     <item>
-      <title>Impacts of climate change on building energy systems</title>
-      <link>/project/resilience/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/project/resilience/</guid>
-      <description>Impacts of climate change on building energy systems</description>
-    </item>
-    
-    <item>
       <title>Life cycle cost optimization</title>
       <link>/project/lcc/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
       
       <guid>/project/lcc/</guid>
       <description>Life cycle cost optimization</description>
-    </item>
-    
-    <item>
-      <title>Quantifying the impact of occupancy on ECMs&#39; performance using building energy simulation</title>
-      <link>/project/sde4/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/project/sde4/</guid>
-      <description>A framework for identifying and quantifying the impact of occupancy-related schedules on ECMs&amp;rsquo; performance using building energy simulation</description>
     </item>
     
     <item>

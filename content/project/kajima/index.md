@@ -6,9 +6,9 @@ image:
   focal_point: Smart
 summary: Advanced machine learning based control for the HVAC systems
 tags:
-- Building Enegy Simulation
+- Building Performance Simulation
 - Machine Learning
-- HVAC System Control
+- Building controls
 title: "Advanced machine learning based control for HVAC systems"
 ---
 

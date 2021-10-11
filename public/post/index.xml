@@ -6,32 +6,9 @@
     <description>Recent content in Posts on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>New paper: Occupancy data at different spatial resolutions: Building energy performance and model calibration</title>
-      <link>/post/chong-2021-occupancy/</link>
-      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/chong-2021-occupancy/</guid>
-      <description>We have a new paper:
- Adrian Chong, Godfried Augenbroe and Da Yan (2021). Occupancy data at different spatial resolutions: Building energy performance and model calibration. Applied Energy. https://doi.org/10.1016/j.apenergy.2021.116492 
- Occupancy is a significant area of interest within the field of building performance simulation. Through Bayesian calibration, the present study investigates the impact of the availability of different spatial resolution of occupancy data on the gap between predicted and measured energy use in buildings.</description>
-    </item>
-    
-    <item>
-      <title>New paper: eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
-      <link>/post/eplusr-paper/</link>
-      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/eplusr-paper/</guid>
-      <description>We have a new paper:
- Hongyuan Jia, Adrian Chong (2020). eplusr: A framework for integrating building energy simulation and data-driven analytics. Energy and Buildings. :10.13140/RG.2.2.34326.16966&amp;frasl;1  
- Building energy simulation (BES) has been widely adopted for the investigation of building environmental and energy performance for different design and retrofit alternatives. Data-driven analytics is vital for interpreting and analyzing BES results to reveal trends and provide useful insights.</description>
-    </item>
     
   </channel>
 </rss>

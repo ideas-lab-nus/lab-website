@@ -6,7 +6,7 @@ summary: |
   modeling-related issues and establishing an automated framework.
 tags:
 - Model predictive control (MPC)
-- HVAC System Control
+- Building controls
 title: "An automated framework for model predictive control"
 url_code: ""
 url_pdf: ""

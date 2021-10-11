@@ -7,7 +7,8 @@ image:
 slides: example-slides
 summary: Generating certified energy models in Singapore through an M&V framework.An NUS project in collaboration with Professor Godfried L. Augenbroe (Georgia Institute of Technology)
 tags:
-- Building Energy Model Calibration
+- Model Calibration
+- Building Performance Simulation
 title: Generating certified energy models in Singapore through an M&V framework.
 url_code: ""
 url_pdf: "publication/pdf/chong2020occupancy.pdf"
