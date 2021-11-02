@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>Building Controls</title>
-      <link>/tags/building-controls/</link>
-      <pubDate>Thu, 08 Jul 2021 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/building-controls/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Building Performance Simulation</title>
       <link>/tags/building-performance-simulation/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0800</pubDate>
       
       <guid>/tags/building-performance-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building controls</title>
+      <link>/tags/building-controls/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/building-controls/</guid>
       <description></description>
     </item>
     
