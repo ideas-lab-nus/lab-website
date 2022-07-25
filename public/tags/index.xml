@@ -6,17 +6,296 @@
     <description>Recent content in Tags on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Building Performance Simulation</title>
+      <title>Building information models</title>
+      <link>/tags/building-information-models/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/building-information-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital twin</title>
+      <link>/tags/digital-twin/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/digital-twin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph network structure</title>
+      <link>/tags/graph-network-structure/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/graph-network-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal thermal comfort model</title>
+      <link>/tags/personal-thermal-comfort-model/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/personal-thermal-comfort-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial–temporal modeling</title>
+      <link>/tags/spatialtemporal-modeling/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/spatialtemporal-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building performance simulation</title>
       <link>/tags/building-performance-simulation/</link>
-      <pubDate>Thu, 08 Jul 2021 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/building-performance-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building simulation</title>
+      <link>/tags/building-simulation/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/building-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration</title>
+      <link>/tags/calibration/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>/tags/optimization/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducibility</title>
+      <link>/tags/reproducibility/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty</title>
+      <link>/tags/uncertainty/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>airborne transmission</title>
+      <link>/tags/airborne-transmission/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/airborne-transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cough</title>
+      <link>/tags/cough/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/cough/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dividers</title>
+      <link>/tags/dividers/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/dividers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>particle image velocimetry</title>
+      <link>/tags/particle-image-velocimetry/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/particle-image-velocimetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building operation</title>
+      <link>/tags/building-operation/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/building-operation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy conservation</title>
+      <link>/tags/energy-conservation/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/energy-conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy forecasting</title>
+      <link>/tags/energy-forecasting/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/energy-forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting</title>
+      <link>/tags/forecasting/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupancy prediction</title>
+      <link>/tags/occupancy-prediction/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/occupancy-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupant behavior</title>
+      <link>/tags/occupant-behavior/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/occupant-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data requirements</title>
+      <link>/tags/data-requirements/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/data-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gray-box model</title>
+      <link>/tags/gray-box-model/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/gray-box-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HVAC control</title>
+      <link>/tags/hvac-control/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/hvac-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal heat gain</title>
+      <link>/tags/internal-heat-gain/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/internal-heat-gain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model identification</title>
+      <link>/tags/model-identification/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/model-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model predictive control</title>
+      <link>/tags/model-predictive-control/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupancy</title>
+      <link>/tags/occupancy/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/occupancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupant-centric control</title>
+      <link>/tags/occupant-centric-control/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/occupant-centric-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal comfort model</title>
+      <link>/tags/personal-comfort-model/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/personal-comfort-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal comfort</title>
+      <link>/tags/thermal-comfort/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/thermal-comfort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal preference</title>
+      <link>/tags/thermal-preference/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/thermal-preference/</guid>
       <description></description>
     </item>
     
@@ -41,7 +320,7 @@
     <item>
       <title>Electricity demand, Plug loads, Stochastic model, Machine learning, Transferability, Autoencoder (AE), Functional Data Analysis (FDA)</title>
       <link>/tags/electricity-demand-plug-loads-stochastic-model-machine-learning-transferability-autoencoder-ae-functional-data-analysis-fda/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/electricity-demand-plug-loads-stochastic-model-machine-learning-transferability-autoencoder-ae-functional-data-analysis-fda/</guid>
       <description></description>
@@ -50,52 +329,25 @@
     <item>
       <title>Control-oriented model</title>
       <link>/tags/control-oriented-model/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/control-oriented-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data requirements</title>
-      <link>/tags/data-requirements/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/data-requirements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Level of detail</title>
       <link>/tags/level-of-detail/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/level-of-detail/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Model identification</title>
-      <link>/tags/model-identification/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/model-identification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model predictive control</title>
-      <link>/tags/model-predictive-control/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/model-predictive-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Performance evaluation</title>
       <link>/tags/performance-evaluation/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/performance-evaluation/</guid>
       <description></description>
@@ -104,7 +356,7 @@
     <item>
       <title>Occupant modeling, Building performance simulation, Building simulation, Bayesian calibration, Uncertainty analysis</title>
       <link>/tags/occupant-modeling-building-performance-simulation-building-simulation-bayesian-calibration-uncertainty-analysis/</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/occupant-modeling-building-performance-simulation-building-simulation-bayesian-calibration-uncertainty-analysis/</guid>
       <description></description>
@@ -113,7 +365,7 @@
     <item>
       <title>Energy efficiency</title>
       <link>/tags/energy-efficiency/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/energy-efficiency/</guid>
       <description></description>
@@ -122,7 +374,7 @@
     <item>
       <title>EnergyPlus</title>
       <link>/tags/energyplus/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/energyplus/</guid>
       <description></description>
@@ -131,7 +383,7 @@
     <item>
       <title>HVAC</title>
       <link>/tags/hvac/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/hvac/</guid>
       <description></description>
@@ -140,7 +392,7 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
@@ -149,7 +401,7 @@
     <item>
       <title>Whole building energy model</title>
       <link>/tags/whole-building-energy-model/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/whole-building-energy-model/</guid>
       <description></description>
@@ -158,25 +410,16 @@
     <item>
       <title>Air distribution</title>
       <link>/tags/air-distribution/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/air-distribution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Airborne transmission</title>
-      <link>/tags/airborne-transmission/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/airborne-transmission/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Building science, Urban scale, Occupant behavior modeling, Human mobility modeling, Cross domain, Spatio-temporal data, Performance evaluation</title>
       <link>/tags/building-science-urban-scale-occupant-behavior-modeling-human-mobility-modeling-cross-domain-spatio-temporal-data-performance-evaluation/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/building-science-urban-scale-occupant-behavior-modeling-human-mobility-modeling-cross-domain-spatio-temporal-data-performance-evaluation/</guid>
       <description></description>
@@ -185,7 +428,7 @@
     <item>
       <title>CFD</title>
       <link>/tags/cfd/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/cfd/</guid>
       <description></description>
@@ -194,7 +437,7 @@
     <item>
       <title>Ceiling fan</title>
       <link>/tags/ceiling-fan/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/ceiling-fan/</guid>
       <description></description>
@@ -203,7 +446,7 @@
     <item>
       <title>Concentration</title>
       <link>/tags/concentration/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/concentration/</guid>
       <description></description>
@@ -212,7 +455,7 @@
     <item>
       <title>Infection risk</title>
       <link>/tags/infection-risk/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/infection-risk/</guid>
       <description></description>
@@ -221,7 +464,7 @@
     <item>
       <title>Reference mining, Natural language processing, Data science, Built environment, Building energy efficiency, Word embeddings</title>
       <link>/tags/reference-mining-natural-language-processing-data-science-built-environment-building-energy-efficiency-word-embeddings/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/tags/reference-mining-natural-language-processing-data-science-built-environment-building-energy-efficiency-word-embeddings/</guid>
       <description></description>
@@ -266,43 +509,25 @@
     <item>
       <title>Building energy benchmarking</title>
       <link>/tags/building-energy-benchmarking/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
       
       <guid>/tags/building-energy-benchmarking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Building operation</title>
-      <link>/tags/building-operation/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/building-operation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Clustering</title>
       <link>/tags/clustering/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
       
       <guid>/tags/clustering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Energy conservation</title>
-      <link>/tags/energy-conservation/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/energy-conservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Smart meter</title>
       <link>/tags/smart-meter/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
       
       <guid>/tags/smart-meter/</guid>
       <description></description>
@@ -311,7 +536,7 @@
     <item>
       <title>Bayesian calibration</title>
       <link>/tags/bayesian-calibration/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/bayesian-calibration/</guid>
       <description></description>
@@ -320,7 +545,7 @@
     <item>
       <title>Building information models (BIM)</title>
       <link>/tags/building-information-models-bim/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/building-information-models-bim/</guid>
       <description></description>
@@ -329,7 +554,7 @@
     <item>
       <title>Continuous calibration</title>
       <link>/tags/continuous-calibration/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/continuous-calibration/</guid>
       <description></description>
@@ -338,7 +563,7 @@
     <item>
       <title>Deep reinforcement learning</title>
       <link>/tags/deep-reinforcement-learning/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/deep-reinforcement-learning/</guid>
       <description></description>
@@ -347,7 +572,7 @@
     <item>
       <title>Energy simulation</title>
       <link>/tags/energy-simulation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/energy-simulation/</guid>
       <description></description>
@@ -356,7 +581,7 @@
     <item>
       <title>Green building XML (gbXML)</title>
       <link>/tags/green-building-xml-gbxml/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/green-building-xml-gbxml/</guid>
       <description></description>
@@ -365,7 +590,7 @@
     <item>
       <title>Optimal control</title>
       <link>/tags/optimal-control/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/optimal-control/</guid>
       <description></description>
@@ -374,7 +599,7 @@
     <item>
       <title>Uncertainty analysis</title>
       <link>/tags/uncertainty-analysis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/uncertainty-analysis/</guid>
       <description></description>
@@ -383,25 +608,16 @@
     <item>
       <title>Building energy modeling</title>
       <link>/tags/building-energy-modeling/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/tags/building-energy-modeling/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Building simulation</title>
-      <link>/tags/building-simulation/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/building-simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cool roof</title>
       <link>/tags/cool-roof/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/tags/cool-roof/</guid>
       <description></description>
@@ -410,7 +626,7 @@
     <item>
       <title>Gaussian process</title>
       <link>/tags/gaussian-process/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/tags/gaussian-process/</guid>
       <description></description>
@@ -419,7 +635,7 @@
     <item>
       <title>Green roof</title>
       <link>/tags/green-roof/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/tags/green-roof/</guid>
       <description></description>
@@ -428,7 +644,7 @@
     <item>
       <title>Hamiltonian Monte Carlo</title>
       <link>/tags/hamiltonian-monte-carlo/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/tags/hamiltonian-monte-carlo/</guid>
       <description></description>
@@ -437,7 +653,7 @@
     <item>
       <title>Mitigation potential</title>
       <link>/tags/mitigation-potential/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/tags/mitigation-potential/</guid>
       <description></description>
@@ -446,7 +662,7 @@
     <item>
       <title>Tropical climate</title>
       <link>/tags/tropical-climate/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/tags/tropical-climate/</guid>
       <description></description>
@@ -455,7 +671,7 @@
     <item>
       <title>No-U-Turn Sampler</title>
       <link>/tags/no-u-turn-sampler/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
       <guid>/tags/no-u-turn-sampler/</guid>
       <description></description>
@@ -464,7 +680,7 @@
     <item>
       <title>Building cost estimation</title>
       <link>/tags/building-cost-estimation/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/tags/building-cost-estimation/</guid>
       <description></description>
@@ -473,7 +689,7 @@
     <item>
       <title>Building system design</title>
       <link>/tags/building-system-design/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/tags/building-system-design/</guid>
       <description></description>
@@ -482,7 +698,7 @@
     <item>
       <title>Multi-objective evolutionary optimization</title>
       <link>/tags/multi-objective-evolutionary-optimization/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/tags/multi-objective-evolutionary-optimization/</guid>
       <description></description>
@@ -491,7 +707,7 @@
     <item>
       <title>Optimization performance</title>
       <link>/tags/optimization-performance/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/tags/optimization-performance/</guid>
       <description></description>
@@ -500,7 +716,7 @@
     <item>
       <title>Building envelope performance</title>
       <link>/tags/building-envelope-performance/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0900</pubDate>
       
       <guid>/tags/building-envelope-performance/</guid>
       <description></description>
@@ -509,7 +725,7 @@
     <item>
       <title>Urban heat island</title>
       <link>/tags/urban-heat-island/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0900</pubDate>
       
       <guid>/tags/urban-heat-island/</guid>
       <description></description>
@@ -518,7 +734,7 @@
     <item>
       <title>Window solar heat gain</title>
       <link>/tags/window-solar-heat-gain/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0900</pubDate>
       
       <guid>/tags/window-solar-heat-gain/</guid>
       <description></description>
@@ -527,7 +743,7 @@
     <item>
       <title>Evaporative cooling</title>
       <link>/tags/evaporative-cooling/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0900</pubDate>
       
       <guid>/tags/evaporative-cooling/</guid>
       <description></description>
@@ -536,7 +752,7 @@
     <item>
       <title>Hot</title>
       <link>/tags/hot/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0900</pubDate>
       
       <guid>/tags/hot/</guid>
       <description></description>
@@ -545,7 +761,7 @@
     <item>
       <title>Humid</title>
       <link>/tags/humid/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0900</pubDate>
       
       <guid>/tags/humid/</guid>
       <description></description>
@@ -554,7 +770,7 @@
     <item>
       <title>Misting fan</title>
       <link>/tags/misting-fan/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0900</pubDate>
       
       <guid>/tags/misting-fan/</guid>
       <description></description>
@@ -563,7 +779,7 @@
     <item>
       <title>Singapore</title>
       <link>/tags/singapore/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0900</pubDate>
       
       <guid>/tags/singapore/</guid>
       <description></description>

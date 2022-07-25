@@ -6,7 +6,7 @@
     <description>Recent content in Weili Xu on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/authors/weili-xu/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>A new BIM to BEM framework: The development and verification of an open-source gbXML to EnergyPlus translator for supporting building life cycle performance analysis</title>
       <link>/publication/xu-2019-gbeplus/</link>
-      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0900</pubDate>
       
       <guid>/publication/xu-2019-gbeplus/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Continuous-time Bayesian calibration of energy models using BIM and energy data</title>
       <link>/publication/chong-2019177/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2019177/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Improving evolutionary algorithm performance for integer type multi-objective building system design optimization</title>
       <link>/publication/xu-2016714/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/publication/xu-2016714/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Imputation of missing values in building sensor data</title>
       <link>/publication/chong-2016-missing/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2016-missing/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Multi-objective optimization of building envelope, lighting and HVAC system designs</title>
       <link>/publication/xu-2016-multi/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/publication/xu-2016-multi/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Uncertainty analysis in building energy simulation: A practical approach</title>
       <link>/publication/chong-2015-practical/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2015-practical/</guid>
       <description></description>

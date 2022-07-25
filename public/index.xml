@@ -36,6 +36,69 @@
     </item>
     
     <item>
+      <title>Personal thermal comfort models using digital twins: Preference prediction with BIM-extracted spatial–temporal proximity data from Build2Vec</title>
+      <link>/publication/abdelrahman-2022-personal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/abdelrahman-2022-personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibrating building energy simulation models: A review of the basics to guide future work</title>
+      <link>/publication/chong-2021-calibrating/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/chong-2021-calibrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the effectiveness of desk dividers in reducing droplet and airborne virus transmission</title>
+      <link>/publication/li-2021-quantifying/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/li-2021-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building occupancy forecasting: A systematical and critical review</title>
+      <link>/publication/jin-2021-building/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/jin-2021-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting building occupancy: A temporal-sequential analysis and machine learning integrated approach</title>
+      <link>/publication/jin-2021-forecasting/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/jin-2021-forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of occupant related data on identification and model predictive control for buildings</title>
+      <link>/publication/zhan-2022-impact/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/zhan-2022-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of a mismatch between thermal comfort modeling and HVAC controls from an occupancy perspective</title>
+      <link>/publication/ono-2022-effects/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/ono-2022-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Total Building Performance Approach to Real-time Occupant Centric Sensing and Control for Mixed Mode Ventilation in the Tropics</title>
       <link>/project/cot_mixed_mode/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0800</pubDate>
@@ -56,9 +119,9 @@ Cities of Tomorrow R&amp;amp;D Programme, and administered by the
       <guid>/project/sbb_testbed/</guid>
       <description>
 
-&lt;p&gt;Building energy modeling has become more widely used for building performance assessment and building regulations compliance. The energy model of the SinBerBEST Cyber Physical Testbed provides a straightforward “virtual testbed” platform for evaluating the performance, efficiency and effectiveness of technological innovations.&lt;/p&gt;
+&lt;p&gt;Building energy modeling has become more widely used for building performance assessment and building regulations compliance. The energy model of the SinBerBEST Cyber-Physical Testbed provides a straightforward &amp;ldquo;virtual testbed&amp;rdquo; platform for evaluating the performance, efficiency, and effectiveness of technological innovations.&lt;/p&gt;
 
-&lt;p&gt;However, before using for technological assessments, the testbed model itself should be calibrated using in-situ experiments from various operation conditions to make sure it follows reasonably the real thermal and energy performance of the testbed. Besides, the dataset derived from the calibration experiments could be processed to form a high-quality open empirical dataset which is rare found in current model calibration research. The open datasets can be used to assess the predictive accuracy and evaluate different calibration algorithms.&lt;/p&gt;
+&lt;p&gt;However, before using for technological assessments, the testbed model itself should be calibrated using in-situ experiments from various operating conditions to ensure it reasonably follows the testbed&amp;rsquo;s real thermal and energy performance. Besides, the dataset derived from the calibration experiments will form a high-quality open empirical dataset that is rare in current model calibration research. The available datasets would be ideal as a benchmark dataset for assessing the predictive accuracy of different calibration algorithms.&lt;/p&gt;
 
 &lt;p&gt;The main objectives of this experiment are:&lt;/p&gt;
 
@@ -83,7 +146,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>A study on the transferability of computational models of building electricity load patterns across climatic zones</title>
       <link>/publication/ward-2021-study/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0900</pubDate>
       
       <guid>/publication/ward-2021-study/</guid>
       <description></description>
@@ -92,7 +155,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>Data requirements and performance evaluation of model predictive control in buildings: A modeling perspective</title>
       <link>/publication/zhan-2021-data/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0900</pubDate>
       
       <guid>/publication/zhan-2021-data/</guid>
       <description></description>
@@ -101,7 +164,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>Occupancy data at different spatial resolutions: building energy performance and model calibration</title>
       <link>/publication/chong-2021-occupancy/</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2021-occupancy/</guid>
       <description></description>
@@ -110,7 +173,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
       <link>/publication/jia-2020-eplusr/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/publication/jia-2020-eplusr/</guid>
       <description></description>
@@ -119,7 +182,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>Data science for building energy efficiency: A comprehensive text-mining driven review of scientific literature</title>
       <link>/publication/abdelrahman-2021-data/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/publication/abdelrahman-2021-data/</guid>
       <description></description>
@@ -128,7 +191,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>Effects of ceiling fans on airborne transmission in an air-conditioned space</title>
       <link>/publication/li-2021-effects/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/publication/li-2021-effects/</guid>
       <description></description>
@@ -137,7 +200,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>Occupant behavior modeling methods for resilient building design, operation and policy at urban scale: A review</title>
       <link>/publication/dong-2021-occupant/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/publication/dong-2021-occupant/</guid>
       <description></description>
@@ -550,7 +613,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>Building categorization revisited: A clustering-based approach to using smart meter data for building energy benchmarking</title>
       <link>/publication/zhan-2020-building/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
       
       <guid>/publication/zhan-2020-building/</guid>
       <description></description>
@@ -568,7 +631,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>A new BIM to BEM framework: The development and verification of an open-source gbXML to EnergyPlus translator for supporting building life cycle performance analysis</title>
       <link>/publication/xu-2019-gbeplus/</link>
-      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0900</pubDate>
       
       <guid>/publication/xu-2019-gbeplus/</guid>
       <description></description>
@@ -577,7 +640,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>A robust unsupervised framework for high-resolution building energy consumption profiling</title>
       <link>/publication/zhan-2019-robust/</link>
-      <pubDate>Sat, 07 Sep 2019 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0900</pubDate>
       
       <guid>/publication/zhan-2019-robust/</guid>
       <description></description>
@@ -586,7 +649,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>Continuous-time Bayesian calibration of energy models using BIM and energy data</title>
       <link>/publication/chong-2019177/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2019177/</guid>
       <description></description>
@@ -595,7 +658,7 @@ for intellectual excellence in research and education in Singapore.&lt;/p&gt;
     <item>
       <title>Whole building energy model for HVAC optimal control: A practical framework based on deep reinforcement learning</title>
       <link>/publication/zhang-2019472/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/publication/zhang-2019472/</guid>
       <description></description>
@@ -679,7 +742,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>A Deep Reinforcement Learning Approach to Using Whole Building Energy Model For HVAC Optimal Control</title>
       <link>/publication/zhang-2018-deep/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/publication/zhang-2018-deep/</guid>
       <description></description>
@@ -688,7 +751,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Green and cool roofs’ urban heat island mitigation potential in tropical climate</title>
       <link>/publication/yang-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/publication/yang-2018/</guid>
       <description></description>
@@ -697,7 +760,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Guidelines for the Bayesian calibration of building energy models</title>
       <link>/publication/chong-2018527/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2018527/</guid>
       <description></description>
@@ -706,7 +769,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>A comparison of MCMC algorithms for the Bayesian calibration of building energy models</title>
       <link>/publication/chong-2017-comparison/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2017-comparison/</guid>
       <description></description>
@@ -715,7 +778,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Bayesian calibration of building energy models with large datasets</title>
       <link>/publication/chong-2017343/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2017343/</guid>
       <description></description>
@@ -724,7 +787,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Energy utilizability concept as a retrofitting solution selection criterion for buildings</title>
       <link>/publication/yang-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
       <guid>/publication/yang-2017/</guid>
       <description></description>
@@ -733,7 +796,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Improving evolutionary algorithm performance for integer type multi-objective building system design optimization</title>
       <link>/publication/xu-2016714/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/publication/xu-2016714/</guid>
       <description></description>
@@ -742,7 +805,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Imputation of missing values in building sensor data</title>
       <link>/publication/chong-2016-missing/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2016-missing/</guid>
       <description></description>
@@ -751,7 +814,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Multi-objective optimization of building envelope, lighting and HVAC system designs</title>
       <link>/publication/xu-2016-multi/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
       <guid>/publication/xu-2016-multi/</guid>
       <description></description>
@@ -760,7 +823,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Uncertainty analysis and parameter estimation of HVAC systems in building energy models</title>
       <link>/publication/chong-2015-hvac/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2015-hvac/</guid>
       <description></description>
@@ -769,7 +832,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Uncertainty analysis in building energy simulation: A practical approach</title>
       <link>/publication/chong-2015-practical/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2015-practical/</guid>
       <description></description>
@@ -778,7 +841,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Predicting the envelope performance of commercial office buildings in Singapore</title>
       <link>/publication/chong-201366/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-201366/</guid>
       <description></description>
@@ -787,7 +850,7 @@ building energy modelling (BEM).&lt;/p&gt;
     <item>
       <title>Performance evaluation of misting fans in hot and humid climate</title>
       <link>/publication/wong-20102666/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0900</pubDate>
       
       <guid>/publication/wong-20102666/</guid>
       <description></description>

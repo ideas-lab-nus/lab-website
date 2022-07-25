@@ -6,15 +6,24 @@
     <description>Recent content in Building simulation on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/building-simulation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Calibrating building energy simulation models: A review of the basics to guide future work</title>
+      <link>/publication/chong-2021-calibrating/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/chong-2021-calibrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Guidelines for the Bayesian calibration of building energy models</title>
       <link>/publication/chong-2018527/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2018527/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Bayesian calibration of building energy models with large datasets</title>
       <link>/publication/chong-2017343/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
       <guid>/publication/chong-2017343/</guid>
       <description></description>

@@ -6,15 +6,51 @@
     <description>Recent content in admin on IDEAS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Calibrating building energy simulation models: A review of the basics to guide future work</title>
+      <link>/publication/chong-2021-calibrating/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/chong-2021-calibrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the effectiveness of desk dividers in reducing droplet and airborne virus transmission</title>
+      <link>/publication/li-2021-quantifying/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/li-2021-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building occupancy forecasting: A systematical and critical review</title>
+      <link>/publication/jin-2021-building/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/jin-2021-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting building occupancy: A temporal-sequential analysis and machine learning integrated approach</title>
+      <link>/publication/jin-2021-forecasting/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/jin-2021-forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>eplusr: A framework for integrating building energy simulation and data-driven analytics</title>
       <link>/publication/jia-2020-eplusr/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0900</pubDate>
       
       <guid>/publication/jia-2020-eplusr/</guid>
       <description></description>
