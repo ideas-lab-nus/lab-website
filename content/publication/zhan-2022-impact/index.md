@@ -1,6 +1,6 @@
 +++
 title = "Impact of occupant related data on identification and model predictive control for buildings"
-date = 2022-10-01
+date = 2022-07-15
 authors = ["Sicheng Zhan","Yue, Lei", "Yuan, Jin", "Yan, Da", "Adrian Chong"]
 publication_types = ["2"]
 abstract = """
