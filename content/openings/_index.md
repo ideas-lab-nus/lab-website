@@ -11,7 +11,7 @@ date: '2021-04-21'
 If any of this sounds interesting to you, join us!
 
 ## Current Openings
-None. Please check back later
+- [PhD scholarship (NUS Research Scholarship)](./NUS_PhD_Scholarship.pdf)
 
 ## Past Openings
 - [~~Postdoctoral Research Fellow (Building Energy Simulation and Calibration~~)](./RF_BES_SBB2.pdf)
