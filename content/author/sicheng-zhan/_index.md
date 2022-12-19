@@ -1,9 +1,12 @@
 ---
 authors:
 - sicheng-zhan
-bio: Sicheng is a PhD student in the Department of Building, NUS. His research interest lies in building energy modeling, building data analytics and adaptive model predictive control, with the goal of building energy saving.
+bio: Sicheng is a postdoctoral research fellow in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/), NUS. His research interest lies in building energy modeling, building data analytics and adaptive model predictive control, with the goal of building energy saving.
 education:
   courses:
+  - course: PhD (Built Environment)
+    institution: National University of Singapore
+    year: 2022
   - course: MSc in Advanced Infrastructure System
     institution: Carnegie Mellon University
     year: 2017
@@ -28,9 +31,9 @@ social:
   icon_pack: ai
   link: https://scholar.google.com.sg/citations?hl=en&user=XvWcVvUAAAAJ
 user_groups:
-- PhD Students / Research Assistants
+- Postdoctoral Researchers
 ---
 
-Sicheng is a PhD student in the Department of Building, NUS. His research interest lies in building energy modeling, building data analytics and adaptive model predictive control, with the goal of building energy saving. 
+Sicheng is a postdoctoral research fellow in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/), NUS. His research interest lies in building energy modeling, building data analytics and adaptive model predictive control, with the goal of building energy saving. 
 
 
