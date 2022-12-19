@@ -1,7 +1,7 @@
 ---
 authors:
 - long-zheng
-bio: Long Zheng is a PhD student in the Department of Building at the National University of Singapore. His research interest includes Computational Fluid Dynamics, exterior convective heat transfer, and microclimate. His current study focuses on the development of exterior convective heat transfer coefficient model via CFD simulations. 
+bio: Long Zheng is a PhD student in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the National University of Singapore. His research interest includes Computational Fluid Dynamics, exterior convective heat transfer, and microclimate. His current study focuses on the development of exterior convective heat transfer coefficient model via CFD simulations. 
 education:
   courses:
   - course: M.Eng. in HVAC and Building Energy Efficiency

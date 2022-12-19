@@ -25,4 +25,4 @@ superuser: true
 user_groups:
 - PhD Students / Research Assistants
 ---
-Jintong Han is an PhD student in the [Department of the Built Environment](https://www.sde.nus.edu.sg/bdg/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg). Her research interests mainly include deep learning algorithms, mainly on continual learning, and their applications in building energy modeling and simulation. 
+Jintong Han is an PhD student in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg). Her research interests mainly include deep learning algorithms, mainly on continual learning, and their applications in building energy modeling and simulation. 

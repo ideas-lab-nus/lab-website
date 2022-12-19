@@ -1,7 +1,7 @@
 ---
 authors:
 - siyu-cheng
-bio: Siyu Cheng is a Research Assistant in the Department of Building at the National University of Singapore (NUS). Her research interests mainly lie in building performance modeling and optimization, but the scope of her research includes a broader field of energy efficiency and building performance, extending from heat transfer analysis to integrative design between indoor spaces, building components and the HVAC system towards improved occupant thermal comfort. Her current work focuses on probabilistic life cycle cost analysis and the stochastic optimization of building sub-systems. Her core skills include whole building energy modeling, parametric design, and indoor CFD simulation.
+bio: Siyu Cheng is a Research Assistant in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the National University of Singapore (NUS). Her research interests mainly lie in building performance modeling and optimization, but the scope of her research includes a broader field of energy efficiency and building performance, extending from heat transfer analysis to integrative design between indoor spaces, building components and the HVAC system towards improved occupant thermal comfort. Her current work focuses on probabilistic life cycle cost analysis and the stochastic optimization of building sub-systems. Her core skills include whole building energy modeling, parametric design, and indoor CFD simulation.
 education:
   courses:
   - course: M.Sc. (Building Science)

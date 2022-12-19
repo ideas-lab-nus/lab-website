@@ -38,6 +38,6 @@ social:
 user_groups:
 - PhD Students / Research Assistants
 ---
-Tan Choon Ping Justine is a PhD student in the [Department of the Built Environment](http://www.dbe.nus.edu.sg) at the National University of Singapore (NUS). His research interest lies in Building Energy Modelling, Building Data Analytic, Fault Detection & Diagnosis and Digital Twin with the objectives of building energy saving, resource optimization and cost saving. 
+Tan Choon Ping Justine is a PhD student in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the National University of Singapore (NUS). His research interest lies in Building Energy Modelling, Building Data Analytic, Fault Detection & Diagnosis and Digital Twin with the objectives of building energy saving, resource optimization and cost saving. 
 
 He is also working as a Senior Manager, Sustainability, with Certis Group in Integrated Facilities Management helping building owners achieve excellence in facilities maintenance management ensuring highest standards of engineering services, embark on sustainability and innovation program through digital transformation and provide comprehensive guidance in implementation of technology strategies e.g., implementation of Design for Maintainability (DfM) and IoT initiatives to improve building energy performance, resource optimisation and cost saving. Justine Tan is a Lean Six Sigma Black Belt and Singapore Certified Energy Manager (SCEM).
