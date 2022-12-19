@@ -11,11 +11,12 @@ date: '2021-04-21'
 If any of this sounds interesting to you, join us!
 
 ## Current Openings
-- [PhD scholarship (NUS Research Scholarship)](./NUS_PhD_Scholarship.pdf)
+- Nil
 
 ## Past Openings
-- [~~Postdoctoral Research Fellow (Building Energy Simulation and Calibration~~)](./RF_BES_SBB2.pdf)
-- [~~Postdoctoral Research Fellow (Building Automation and Controls, IoT~~)](./RF_Controls_CoT.pdf)
+- [~~PhD scholarship (NUS Research Scholarship)~~](./NUS_PhD_Scholarship.pdf)
+- [~~Postdoctoral Research Fellow (Building Energy Simulation and Calibration)~~](./RF_BES_SBB2.pdf)
+- [~~Postdoctoral Research Fellow (Building Automation and Controls, IoT)~~](./RF_Controls_CoT.pdf)
 - [~~Postdoctoral Research Fellow (Building Energy Simulation)~~](./RF_BES_CoT.pdf)
 - [~~Research Assistant (Machine Learning)~~](./RA_DataScience_CoT.pdf)
 
