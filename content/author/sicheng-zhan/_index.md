@@ -19,7 +19,7 @@ name: Sicheng Zhan
 organizations:
 - name: National University of Singapore
   url: ""
-role: PhD Student
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
