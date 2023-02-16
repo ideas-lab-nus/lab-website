@@ -11,7 +11,7 @@ date: '2021-04-21'
 If any of this sounds interesting to you, join us!
 
 ## Current Openings
-- [PhD scholarship (NUS Research Scholarship)](./2023_Ringfenced_Scholarship.pdf)
+- [PhD scholarship (NUS Research Scholarship)](./2023_PhD_Scholarship.pdf)
 
 ## Past Openings
 - [~~PhD scholarship (NUS Research Scholarship)~~](./NUS_PhD_Scholarship.pdf)
