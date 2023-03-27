@@ -10,8 +10,9 @@ date: '2021-04-21'
 
 If any of this sounds interesting to you, join us!
 
-## Current Openings
-- [PhD scholarship (NUS Research Scholarship)](./2023_PhD_Scholarship.pdf)
+## Current Openings (2 PhD Scholarships)
+- [PhD scholarship (Deployable occupant-centric reinforcement learning)](./2023_PhD_Scholarship.pdf)
+- [PhD scholarship (Building energy simulation and machine learning)](./2023_NUS_PhD_Scholarship.pdf)
 
 ## Past Openings
 - [~~PhD scholarship (NUS Research Scholarship)~~](./NUS_PhD_Scholarship.pdf)
