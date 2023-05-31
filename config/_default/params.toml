@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "adrian.chong@nus.edu.sg"
 phone = "+65 98210638"
-address = "Department of Building, School of Design and Environment, National University of Singapore, Singapore"
+address = "Department of the built environment, College of Design and Engineering, National University of Singapore, Singapore"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

@@ -53,7 +53,7 @@ If any of this sounds interesting to you, join us!
 
 <strong>If you are interested in a research position on our team</strong>, [send me an email](mailto: adrian.chong@nus.edu.sg) indicating your research interests along with a CV. Also have a look at our [current projects](https://ideaslab.io/#projects).
 
-<strong>If you are interested in joining us as a PhD student</strong>, then [please apply here](http://www.bdg.nus.edu.sg/graduate/introduction.html) and [send me an email](mailto: adrian.chong@nus.edu.sg) indicating your research interests along with a CV. Please note that admission decisions are made by the department so I am unable to guarantee you a place in the PhD program.
+<strong>If you are interested in joining us as a PhD student</strong>, then [please apply here](https://cde.nus.edu.sg/dbe/graduate/phd-msc-building/) and [send me an email](mailto: adrian.chong@nus.edu.sg) indicating your research interests along with a CV. Please note that admission decisions are made by the department so I am unable to guarantee you a place in the PhD program.
 
 <strong>If you are a NUS graduate student,</strong><a href="mailto: adrian.chong@nus.edu.sg">send me an email</a> indicating your research interests with a CV. Have a look at our [current projects](https://ideaslab.io/#projects) or you can propose a topic.
 
