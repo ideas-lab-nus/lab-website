@@ -34,7 +34,7 @@ social:
   icon_pack: fab
   link: https://github.com/MiyaZhu13
 user_groups:
-  - Postdoctoral Researchers
+  - Alumni
 ---
 
 Mingya Zhu is a postdoctoral fellow in the [SinBerBEST](https://sinberbest.berkeley.edu) program. Her research interest is in model calibration/validation and uncertainty analysis in the area of building energy simulation. She is also interested in data-driven modeling for building energy prediction and supported two national projects as a key researcher: Methods of minimum variables set construction for building energy prediction based on high-dimensional space theory (China NSFC), and Development of a co-simulation model of occupant behavior, IAQ and building energy – subtask 2 of the kernel development of whole building performance simulation platform (the 13th 5-year national Key R&D Plan). 
