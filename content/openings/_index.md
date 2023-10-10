@@ -10,11 +10,12 @@ date: '2021-04-21'
 
 If any of this sounds interesting to you, join us!
 
-## Current Openings (2 PhD Scholarships)
-- [PhD scholarship (Deployable occupant-centric reinforcement learning)](./2023_PhD_Scholarship.pdf)
-- [PhD scholarship (Building energy simulation and machine learning)](./2023_NUS_PhD_Scholarship.pdf)
+## Current Openings 
+- Nil
 
 ## Past Openings
+- [~~PhD scholarship (Deployable occupant-centric reinforcement learning)~~](./2023_PhD_Scholarship.pdf)
+- [~~PhD scholarship (Building energy simulation and machine learning)~~](./2023_NUS_PhD_Scholarship.pdf)
 - [~~PhD scholarship (NUS Research Scholarship)~~](./NUS_PhD_Scholarship.pdf)
 - [~~Postdoctoral Research Fellow (Building Energy Simulation and Calibration)~~](./RF_BES_SBB2.pdf)
 - [~~Postdoctoral Research Fellow (Building Automation and Controls, IoT)~~](./RF_Controls_CoT.pdf)
