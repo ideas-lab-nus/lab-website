@@ -2,22 +2,10 @@
 authors:
 - xilei-dai
 bio: My research interests include IoT for Building sensing and prediction.
-education:
-  courses:
-  - course: PhD in Heating, Ventilation and Air-Conditioning
-    institution: Tianjin University, China
-    year: 2021
 email: ""
-interests:
-  - Deep learning
-  - Indoor air quality
-  - Building modelling and simulation
 name: Xilei Dai
 weight: 1
-organizations:
-  - name: National University of Singapore
-    url: "http://www.nus.edu.sg/"
-role: Postdoctoral Fellow
+role: Associate Professor (Southeast University)
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,8 +23,5 @@ social:
   icon_pack: fab
   link: https://github.com/XileiDai
 user_groups:
-  - Postdoctoral Researchers
+  - Alumni
 ---
-
-Xilei Dai is a postdoctoral fellow at the [IDEASLab](https://ideaslab.io/). He specializes in
-IoT for building sensing and prediction, with expertise in deep learning for building performance prediction. He has participated in developing a large IoT system for over 200 homes in China to realize real-time retrieving of building operations and IAQ.

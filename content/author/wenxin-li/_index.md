@@ -6,7 +6,7 @@ name: Wenxin Li
 weight: 3
 organizations:
   - name: Southeast University
-role: Assistant Professor (Southeast Univesity, China)
+role: Associate Professor (Southeast University)
 social:
 - icon: envelope
   icon_pack: fas
