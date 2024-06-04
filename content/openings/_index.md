@@ -11,9 +11,10 @@ date: '2021-04-21'
 If any of this sounds interesting to you, join us!
 
 ## Current Openings 
-- [PhD scholarship (Data-centric digital twins / machine learning)](./2024_NUS_PhD_Scholarship.pdf)
+- Nil
 
 ## Past Openings
+- [~~PhD scholarship (Data-centric digital twins / machine learning)~~](./2024_NUS_PhD_Scholarship.pdf)
 - [~~PhD scholarship (Deployable occupant-centric reinforcement learning)~~](./2023_PhD_Scholarship.pdf)
 - [~~PhD scholarship (Building energy simulation and machine learning)~~](./2023_NUS_PhD_Scholarship.pdf)
 - [~~PhD scholarship (NUS Research Scholarship)~~](./NUS_PhD_Scholarship.pdf)
