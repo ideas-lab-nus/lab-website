@@ -11,7 +11,7 @@ date: '2021-04-21'
 If any of this sounds interesting to you, join us!
 
 ## Current Openings 
-- Nil
+- [PhD scholarship (NUS Research Scholarship)](./2024_NUS_PhD_Scholarship.pdf)
 
 ## Past Openings
 - [~~PhD scholarship (Data-centric digital twins / machine learning)~~](./2024_NUS_PhD_Scholarship.pdf)
