@@ -17,7 +17,7 @@ interests:
 name: Adrian Chong
 organizations:
 - name: National University of Singapore
-role: Assistant Professor
+role: Associate Professor
 social:
 # for more icons look at the following links
 # https://jpswalsh.github.io/academicons/
@@ -45,7 +45,7 @@ user_groups:
 - Principal Investigator
 ---
 
-Dr. Adrian Chong is an Assistant Professor in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) and a Fellow of the International Building Performance Simulation Association (IBPSA). His research interest is rooted in addressing the multi-faceted challenges of optimizing building energy efficiency and performance.At the core of this endeavor are his interest in mixed-mode ventilation in the Tropics, model calibration, uncertainty quantification, and occupant-centric building controls. At NUS, he leads the Integrated Data, Energy Analysis + Simulation (IDEAS) lab, a multidisciplinary group researching the interaction between building performance simulation, measured data, and machine learning. Adrian also serves as a subject editor for [Building Simulation](https://www.springer.com/journal/12273), an editorial board member for [Energy and Buildings](https://www.sciencedirect.com/journal/energy-and-buildings), and an Early Career Board Member for [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).
+Dr. Adrian Chong is an Associate Professor in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) and a Fellow of the International Building Performance Simulation Association (IBPSA). His research interest is rooted in addressing the multi-faceted challenges of optimizing building energy efficiency and performance.At the core of this endeavor are his interest in mixed-mode ventilation in the Tropics, model calibration, uncertainty quantification, and occupant-centric building controls. At NUS, he leads the Integrated Data, Energy Analysis + Simulation (IDEAS) lab, a multidisciplinary group researching the interaction between building performance simulation, measured data, and machine learning. Adrian also serves as a subject editor for [Building Simulation](https://www.springer.com/journal/12273), an editorial board member for [Energy and Buildings](https://www.sciencedirect.com/journal/energy-and-buildings), and an Early Career Board Member for [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).
 
 
 
