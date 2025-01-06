@@ -26,7 +26,7 @@ name: Wei Liang
 organizations:
   - name: National University of Singapore
     url: "http://www.nus.edu.sg/"
-role: Postdoctoral Research Associate
+role: Senior Research Fellow
 social:
 # for more icons look at the following links
 # https://jpswalsh.github.io/academicons/

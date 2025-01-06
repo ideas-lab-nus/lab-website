@@ -4,6 +4,9 @@ authors:
 bio: My research interests include building performance modelling and optimization as well as data analytics.
 education:
   courses:
+  - course: PhD (Built Environment)
+    institution: National University of Singapore
+    year: 2025
   - course: M.S. in Building Performance and Diagnostics
     institution: Carnegie Mellon University
     year: 2015
@@ -17,7 +20,7 @@ name: Yue Lei
 organizations:
 - name: National University of Singapore
   url: "https://blog.nus.edu.sg/yuelei/about/"
-role: PhD Student
+role: Research Fellow
 social:
 # for more icons look at the following links
 # https://jpswalsh.github.io/academicons/
