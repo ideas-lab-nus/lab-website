@@ -11,6 +11,7 @@ date: '2021-04-21'
 If any of this sounds interesting to you, join us!
 
 ## Current Openings 
+- [Postdoctoral Research Fellow (Thermal Engineering)](./2025_NUS_Local_Cooling_RF.pdf)
 - [PhD scholarship (NUS Research Scholarship)](./2025_NUS_PhD_Scholarship.pdf)
 
 ## Past Openings
