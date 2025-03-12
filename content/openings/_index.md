@@ -6,7 +6,7 @@ date: '2021-04-21'
 
 
 
-**IDEAS Lab** is a research group that focuses on the integration between data, analytics and building performance simulation. The group also focuses on aspects of building performance simulation that involves uncertainty quantification, model calibration, and statistical modeling. 
+**IDEAS Lab** is a research group that focuses on the integration between data, analytics and building performance simulation. The group's research focuses on mixed-mode ventilation in the Tropics, model calibration, uncertainty quantification, and occupant-centric building controls. 
 
 If any of this sounds interesting to you, join us!
 
