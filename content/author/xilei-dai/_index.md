@@ -5,7 +5,7 @@ bio: My research interests include IoT for Building sensing and prediction.
 email: ""
 name: Xilei Dai
 weight: 1
-role: Research Fellow (Nanyang Technological University)
+role: Associate Professor (Chongqing University)
 social:
 - icon: envelope
   icon_pack: fas

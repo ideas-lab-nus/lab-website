@@ -1,23 +1,12 @@
 ---
 authors:
 - yaonan-gu
-bio: Yaonan is an PhD student in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/), National University of Singapore (NUS). Her research interests mainly include energy modelling, the applications of machine learning and statistical modelling to building data and Bayesian calibration.
 
-education:
-  courses:
-  - course: MSc in Building Performance and Sustainability
-    institution: National University of Singapore
-    year: 2018
 email: ""
-interests:
-- Building Energy Simulation
-- Bayesian Calibration
-- Data Analytics and Applied Machine Learning
+
 name: Yaonan (Claire) Gu
-organizations:
-- name: National University of Singapore
-url: ""
-role: PhD Student
+
+role: Eric and Wendy Schmidt AI in Science Postdoctoral Fellow (National University of Singapore)
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,7 +21,8 @@ social:
   icon_pack: fab
   link: https://github.com/ClaireGyn
 user_groups:
-- PhD Students / Research Assistants 
+- Alumni
+
+
 ---
 
-Yaonan is an PhD student in the Department of Building, National University of Singapore (NUS). Her research interests mainly include energy modelling, the applications of machine learning and statistical modelling to building data and Bayesian calibration.
