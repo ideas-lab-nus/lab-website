@@ -9,7 +9,7 @@ role: Associate Professor (Chongqing University)
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:xileidai@tju.edu.cn'  ## will update once I have NUS mail
+  link: 'mailto:xilei.dai@cqu.edu.cn'  
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/xilei-dai-4b6b701b8/
