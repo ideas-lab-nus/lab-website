@@ -11,8 +11,7 @@ education:
     institution: Wuhan University of Technology
     year: 2016
 email: ""
-interests:
-- Building Performance Modelling and Optimization
+interests: ""
 name: Siyu Cheng
 organizations:
 - name: National University of Singapore

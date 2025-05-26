@@ -6,7 +6,7 @@ email: ""
 
 name: Yaonan (Claire) Gu
 
-role: Eric and Wendy Schmidt AI in Science Postdoctoral Fellow (National University of Singapore)
+role: Schmidt AI in Science Postdoctoral Fellow (National University of Singapore)
 social:
 - icon: envelope
   icon_pack: fas

@@ -9,10 +9,7 @@ education:
     institution: Carnegie Mellon University
     year: 2023
 email: "yitingzhang@u.nus.edu"
-interests:
-  - Building Performance Modeling
-  - Large-scale Building Energy Simulation
-  - Data Analytics and Machine Learning
+interests: ""
 name: Yiting Zhang
 organizations:
   - name: National University of Singapore

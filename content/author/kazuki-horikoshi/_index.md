@@ -9,10 +9,7 @@ education:
     institution: The University of Tokyo
     year: 2013
 email: "hkazuki@u.nus.edu"
-interests:
-  - Applied Machine Learning
-  - Building Performance Modeling
-  - Building Information Modeling
+interests: ""
 name: Kazuki Horikoshi
 organizations:
   - name: National University of Singapore

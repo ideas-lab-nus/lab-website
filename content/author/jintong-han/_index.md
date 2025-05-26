@@ -9,9 +9,7 @@ education:
     institution: Nanyang Technological University
     year: 2019
 email: ""
-interests:
-- Continual Learning
-- Physical-based Deep Learning
+interests: ""
 name: Jintong Han
 organizations:
 - name: National University of Singapore

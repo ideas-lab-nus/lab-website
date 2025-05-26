@@ -9,10 +9,7 @@ education:
     institution: University of Southampton
     year: 2020
 email: "e1499431@u.nus.edu"
-interests:
-  - Data Analytics and Applied Machine Learning
-  - IoT Applications
-  - Building Performance Modeling
+interests: ""
 name: Roman Buckle
 organizations:
   - name: National University of Singapore

@@ -15,13 +15,7 @@ education:
     institution: Nanjing University
     year: 2012
 email: ""
-interests:
-  - Robotics for Building Management
-  - Building Controls and Diagnostics
-  - Smart Energy Management Systems
-  - Indoor Environmental Quality
-  - IoT Applications
-  - Building Energy Simulation
+interests: ""
 name: Wei Liang
 organizations:
   - name: National University of Singapore

@@ -11,11 +11,7 @@ education:
     institution: Carnegie Mellon University
     year: 2015
 email: ""
-interests:
-- Building Performance Modelling and Optimization
-- Model Prodictive Control (MPC)
-- Indoor CFD Application
-- Data Analytics
+interests: ""
 name: Yue Lei
 organizations:
 - name: National University of Singapore
